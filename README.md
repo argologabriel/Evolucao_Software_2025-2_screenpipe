@@ -107,11 +107,15 @@ Para este projeto, foram selecionados três modelos de análise de sentimentos d
 **Como Executar**
 -----------------
 
-**Clonar o Repositório:**Bashgit clone https://github.com/argologabriel/Evolucao\_Software\_2025-2\_screenpipe.git
+*   **Clonar o Repositório:**
 
-cd Evolucao\_Software\_2025-2
+    *  Bash git clone https://github.com/argologabriel/Evolucao\_Software\_2025-2\_screenpipe.git
 
-*   **Instalar as Dependências:**No Terminal: pip install pandas requests torch transformers
+    *  cd Evolucao\_Software\_2025-2
+
+*   **Instalar as Dependências:**
+
+    *  No Terminal: pip install pandas requests torch transformers
     
 *   **Configurar o Token:**
     
