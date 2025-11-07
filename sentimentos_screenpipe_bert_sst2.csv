@@ -1,0 +1,101 @@
+﻿PR_Number,PR_Title,Comment,Sentiment,Score,Model
+1863,feat: add submenu with icons to tray menu,,NEU,0.0,bert_sst2
+1854,fix: server-side request forgery in the `fetchOpenAIModels` ,,NEU,0.0,bert_sst2
+1847,added workflow-analyzer pipe with data fetching and localy tested,,NEU,0.0,bert_sst2
+1844,Implement screenpipe-mcp with direct sqlite querying,,NEU,0.0,bert_sst2
+1832,🧪 Testing Bounty: Complete OCR Filtering Verification for Issue #1817,,NEU,0.0,bert_sst2
+1828,Update CONTRIBUTING for Tauri setup,,NEU,0.0,bert_sst2
+1824,Add ScreenPipe analysis report,,NEU,0.0,bert_sst2
+1820,Complete LinkedIn automation removal,,NEU,0.0,bert_sst2
+1818,Remove LinkedIn automation feature,,NEU,0.0,bert_sst2
+1812,Update mcp-server.mdx,,NEU,0.0,bert_sst2
+1808,fix: arbitrary file access during archive extraction zipslip on index,,NEU,0.0,bert_sst2
+1805,rewind desktop app,,NEU,0.0,bert_sst2
+1803,tabs,,NEU,0.0,bert_sst2
+1800,Added git-ls as a dependency in CONTRIBUTING.md,,NEU,0.0,bert_sst2
+1797,fix audio device randomly stopping sometimes,,NEU,0.0,bert_sst2
+1795,make pipe manager optional,,NEU,0.0,bert_sst2
+1790,Fix: Fix getting app icons on Linux,,NEU,0.0,bert_sst2
+1788,fix: ignore minimized windows during capture,,NEU,0.0,bert_sst2
+1786,fix: Stop pipes before stopping screenpipe sidecar,,NEU,0.0,bert_sst2
+1784,fix: force reload user data before pipe purchases to prevent stale cr…,,NEU,0.0,bert_sst2
+1780,fix model download ux,,NEU,0.0,bert_sst2
+1773,Update README.md with a greeting,,NEU,0.0,bert_sst2
+1766,feat(testing): add e2e test for windows and linux,,NEU,0.0,bert_sst2
+1764,Fix: Fixed Headphones/airpods configration issue,,NEU,0.0,bert_sst2
+1761,fix: tray icon not changing on failed health check,,NEU,0.0,bert_sst2
+1759,Update windows-integration-test.yml to upload .screenpipe folder,,NEU,0.0,bert_sst2
+1757,fix: keyboard shortcuts on windows,,NEU,0.0,bert_sst2
+1751,feat: add device_name in frame table and search query return,,NEU,0.0,bert_sst2
+1748,fix: screenpipe not working due to IPv6 port and wrong design flow,,NEU,0.0,bert_sst2
+1746,Fix: Add CLI port override and dynamic  fallback to  avoid conflicts on Windows,,NEU,0.0,bert_sst2
+1744,fix: CONTRIBUTING.md - windows part,,NEU,0.0,bert_sst2
+1742,fix: CONTRIBUTING.md 's Windows Part,,NEU,0.0,bert_sst2
+1739,Add H1 and Pulse Badge,,NEU,0.0,bert_sst2
+1735,Create deploy.yml,,NEU,0.0,bert_sst2
+1732,download old versions because of EGL issues on rolling release Linux Distros,,NEU,0.0,bert_sst2
+1729,remove unused Cargo.lock file from screenpipe-server,,NEU,0.0,bert_sst2
+1727,refactor: use core-graphics-helmer-fork instead of scap,,NEU,0.0,bert_sst2
+1724,enhance linux package installation process in pre_build.js,,NEU,0.0,bert_sst2
+1721,bump tauri to fix path resolution,,NEU,0.0,bert_sst2
+1719,document env variables in CLI reference,,NEU,0.0,bert_sst2
+1717,fix cmake compile time errors,,NEU,0.0,bert_sst2
+1711,revert libsamplerate cause it fails build,,NEU,0.0,bert_sst2
+1708,fix compilation error due to cmake version,,NEU,0.0,bert_sst2
+1704,Improve notion pipe,,NEU,0.0,bert_sst2
+1701,Update copyright year in LICENSE.md,,NEU,0.0,bert_sst2
+1696,window UI Automation (wip),,NEU,0.0,bert_sst2
+1694,feat: windows ui automation,,NEU,0.0,bert_sst2
+1690,"fix: killing backend in linux, it shouldn't kill the app",,NEU,0.0,bert_sst2
+1688,feat: support for active Browser URL detection in linux,,NEU,0.0,bert_sst2
+1686,fix: Linux Intergration Test,,NEU,0.0,bert_sst2
+1684,fix: syntax error in install.ps1,,NEU,0.0,bert_sst2
+1683,Add: Client screenshot to server,,NEU,0.0,bert_sst2
+1681,Compute use nextjs,,NEU,0.0,bert_sst2
+1678,Control computer,,NEU,0.0,bert_sst2
+1675,fix: improve benchmarks and handle platform-specific code,,NEU,0.0,bert_sst2
+1672,hackathon ,,NEU,0.0,bert_sst2
+1670,Fix app settings resetting,,NEU,0.0,bert_sst2
+1668,Update the build from source instructions to include xcode. ,,NEU,0.0,bert_sst2
+1665,Commit Cargo.lock for workspace,,NEU,0.0,bert_sst2
+1663,"docs: fix grammar in ""Where is the data stored?"" section",,NEU,0.0,bert_sst2
+1661,Fix openai model not showing,,NEU,0.0,bert_sst2
+1659,fix: ai preset of screenpipe cloud not working in onboarding,,NEU,0.0,bert_sst2
+1655,"cargo {fmt, clippy, udeps}",,NEU,0.0,bert_sst2
+1653,feat: download ffmpeg,,NEU,0.0,bert_sst2
+1651,fix: app_name window_name fetch from frame instead of ocr_text,,NEU,0.0,bert_sst2
+1647,feat: bring mcp server to lime-light,,NEU,0.0,bert_sst2
+1645,Add ai preset to pipes,,NEU,0.0,bert_sst2
+1643,[linux] bundle tesseract and ffmpeg,,NEU,0.0,bert_sst2
+1641,fix: ship with ffmpeg,,NEU,0.0,bert_sst2
+1636,setup tests for Tauri app,,NEU,0.0,bert_sst2
+1634,feat: make disconnected devices list live duration of program,,NEU,0.0,bert_sst2
+1629,test,,NEU,0.0,bert_sst2
+1625,custom port for mcp server,,NEU,0.0,bert_sst2
+1624,fix: disk usage,,NEU,0.0,bert_sst2
+1623,restore: confitmation dialog of resetting pipe,,NEU,0.0,bert_sst2
+1622,fix: screenpipe cli not working on windows 10 11,,NEU,0.0,bert_sst2
+1621,fix: native look on windows,,NEU,0.0,bert_sst2
+1616,fix: `test-linux` now work on github codespaces,,NEU,0.0,bert_sst2
+1615,also capture windows having no pid,,NEU,0.0,bert_sst2
+1614,fix: search filter generator not working,,NEU,0.0,bert_sst2
+1613,feat: tray icon for light and dark mode,,NEU,0.0,bert_sst2
+1612,fix linux build,,NEU,0.0,bert_sst2
+1609,fix: search pipe ai not working,,NEU,0.0,bert_sst2
+1604,fix pipe store issues,,NEU,0.0,bert_sst2
+1598,improve pipe update functionality and ux,,NEU,0.0,bert_sst2
+1597,Add vcredist setup to CONTRIBUTING.md,,NEU,0.0,bert_sst2
+1596,fix build And windows integration test,,NEU,0.0,bert_sst2
+1595,Example pipe logs,,NEU,0.0,bert_sst2
+1592,make screenpipe run on Windows 10,,NEU,0.0,bert_sst2
+1591,make sure user know that ffmpeg is being downloaded and do not re-install bun,,NEU,0.0,bert_sst2
+1588,rust fix,,NEU,0.0,bert_sst2
+1585,fix windows build,,NEU,0.0,bert_sst2
+1584,fix linux build,,NEU,0.0,bert_sst2
+1581,add settings preset components to registry,,NEU,0.0,bert_sst2
+1580,fix: settings preset component,,NEU,0.0,bert_sst2
+1577,Devcontainer to speed up linux development of screenpipe,,NEU,0.0,bert_sst2
+1573,make released cli work on ubuntu 22,,NEU,0.0,bert_sst2
+1572,cli version bumped,,NEU,0.0,bert_sst2
+1571,fix  linux integration test,,NEU,0.0,bert_sst2
+1568,chore: bump xcap,,NEU,0.0,bert_sst2
