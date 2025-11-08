@@ -102,7 +102,7 @@ def main():
         return
 
     pull_requests = get_last_100_closed_prs(REPO_OWNER, REPO_NAME)
-    if not pull_requests:
+    if not pull_requests: 
         print("Nenhum PR encontrado ou erro na API.")
         return
 
@@ -111,7 +111,7 @@ def main():
     print(f"Iniciando coleta de comentários para {len(pull_requests)} PRs...")
     
     for i, pr in enumerate(pull_requests):
-        print(f"  Coletando PR 
+        print(f"  Coletando comentários do PR {i+1}/{len(pull_requests)}: {pr['title']}") 
         comments = get_pr_comments(pr)
         total_comments += len(comments)
         all_data.extend(comments)
