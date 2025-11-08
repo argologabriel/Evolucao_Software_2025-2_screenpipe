@@ -60,7 +60,7 @@ def get_pr_comments(owner, repo, pr_number):
     return []
 
 # ===============================
-# EXECUÇÃO PRINCIPAL (MODIFICADA)
+# EXECUÇÃO PRINCIPAL
 # ===============================
 
 # Define o diretório de saída
@@ -72,7 +72,6 @@ os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 # 2. Coletar PRs (apenas uma vez)
 print("🔍 Coletando Pull Requests fechados...")
-# [NOTA] A função agora pega os 100 mais recentes (limit=100)
 prs = get_closed_pull_requests(OWNER, REPO, limit=100)
 print(f"✅ {len(prs)} PRs coletados.")
 
@@ -143,7 +142,7 @@ for short_name, model_path in MODEL_LIST.items():
     # Salvar o CSV no diretório de saída
     df.to_csv(output_path, index=False, encoding="utf-8-sig")
 
-    # Resumo geral para ESTE modelo
+    # Resumo geral para este modelo
     summary = df["Sentiment"].value_counts(normalize=True) * 100
     print(f"\n📊 Resumo de sentimentos (%) para {short_name}:")
     print(summary)

@@ -1,0 +1,2335 @@
+﻿PR_Number,PR_Title,Comment,Sentiment,Score
+1863,feat: add submenu with icons to tray menu,"
+## 🧪 testing bounty created!
+
+a testing bounty has been created for this PR: [view testing issue](https://github.com/mediar-ai/screenpipe/issues/1864)
+
+testers will be awarded $20 each for providing quality test reports. please check the issue for testing requirements.
+",NEGATIVE,0.9955543875694275
+1854,fix: server-side request forgery in the `fetchOpenAIModels` ,"
+## 🧪 testing bounty created!
+
+a testing bounty has been created for this PR: [view testing issue](https://github.com/mediar-ai/screenpipe/issues/1855)
+
+testers will be awarded $20 each for providing quality test reports. please check the issue for testing requirements.
+",NEGATIVE,0.9952823519706726
+1854,fix: server-side request forgery in the `fetchOpenAIModels` ,nice,POSITIVE,0.9998552799224854
+1854,fix: server-side request forgery in the `fetchOpenAIModels` ,/claim #1855,NEGATIVE,0.6237722635269165
+1847,added workflow-analyzer pipe with data fetching and localy tested,"
+## 🧪 testing bounty created!
+
+a testing bounty has been created for this PR: [view testing issue](https://github.com/mediar-ai/screenpipe/issues/1848)
+
+testers will be awarded $20 each for providing quality test reports. please check the issue for testing requirements.
+",NEGATIVE,0.9951724410057068
+1844,Implement screenpipe-mcp with direct sqlite querying,"
+## 🧪 testing bounty created!
+
+a testing bounty has been created for this PR: [view testing issue](https://github.com/mediar-ai/screenpipe/issues/1845)
+
+testers will be awarded $20 each for providing quality test reports. please check the issue for testing requirements.
+",NEGATIVE,0.9952985644340515
+1832,🧪 Testing Bounty: Complete OCR Filtering Verification for Issue #1817,"
+## 🧪 testing bounty created!
+
+a testing bounty has been created for this PR: [view testing issue](https://github.com/mediar-ai/screenpipe/issues/1833)
+
+testers will be awarded $20 each for providing quality test reports. please check the issue for testing requirements.
+",NEGATIVE,0.9954816102981567
+1832,🧪 Testing Bounty: Complete OCR Filtering Verification for Issue #1817,Closing this pull request. This was submitted by an unauthorized and poorly configured experiment on my account without my full oversight. The comments it posted were inappropriate and do not reflect my views. My sincere apologies to the project maintainers for the noise and disruption. I have revoked its access and am securing my account.,NEGATIVE,0.9996501207351685
+1828,Update CONTRIBUTING for Tauri setup,"
+## 🧪 testing bounty created!
+
+a testing bounty has been created for this PR: [view testing issue](https://github.com/mediar-ai/screenpipe/issues/1829)
+
+testers will be awarded $20 each for providing quality test reports. please check the issue for testing requirements.
+",NEGATIVE,0.9955615997314453
+1828,Update CONTRIBUTING for Tauri setup,"you dont need a key to build in fact 
+
+key is just used to sign the app for sending updates ",NEGATIVE,0.9961928129196167
+1828,Update CONTRIBUTING for Tauri setup,Ohh thanks for sharing. ,POSITIVE,0.9996594190597534
+1824,Add ScreenPipe analysis report,"
+## 🧪 testing bounty created!
+
+a testing bounty has been created for this PR: [view testing issue](https://github.com/mediar-ai/screenpipe/issues/1825)
+
+testers will be awarded $20 each for providing quality test reports. please check the issue for testing requirements.
+",NEGATIVE,0.995344340801239
+1820,Complete LinkedIn automation removal,"
+## 🧪 testing bounty created!
+
+a testing bounty has been created for this PR: [view testing issue](https://github.com/mediar-ai/screenpipe/issues/1821)
+
+testers will be awarded $20 each for providing quality test reports. please check the issue for testing requirements.
+",NEGATIVE,0.995418906211853
+1818,Remove LinkedIn automation feature,"
+## 🧪 testing bounty created!
+
+a testing bounty has been created for this PR: [view testing issue](https://github.com/mediar-ai/screenpipe/issues/1819)
+
+testers will be awarded $20 each for providing quality test reports. please check the issue for testing requirements.
+",NEGATIVE,0.9955741167068481
+1812,Update mcp-server.mdx,"
+## 🧪 testing bounty created!
+
+a testing bounty has been created for this PR: [view testing issue](https://github.com/mediar-ai/screenpipe/issues/1813)
+
+testers will be awarded $20 each for providing quality test reports. please check the issue for testing requirements.
+",NEGATIVE,0.9955340623855591
+1808,fix: arbitrary file access during archive extraction zipslip on index,"
+## 🧪 testing bounty created!
+
+a testing bounty has been created for this PR: [view testing issue](https://github.com/mediar-ai/screenpipe/issues/1809)
+
+testers will be awarded $20 each for providing quality test reports. please check the issue for testing requirements.
+",NEGATIVE,0.9955156445503235
+1808,fix: arbitrary file access during archive extraction zipslip on index,"/bounty 500
+/claim #1809 ",NEGATIVE,0.9488615393638611
+1808,fix: arbitrary file access during archive extraction zipslip on index,"## 💎 $10 bounty [• Orange](https://algora.io/orangecurl)
+### Steps to solve:
+1. **Start working**: Comment `/attempt #1808` with your implementation plan
+2. **Submit work**: Create a pull request including `/claim #1808` in the PR body to claim the bounty
+3. **Receive payment**: 100% of the bounty is received 2-5 days post-reward. [Make sure you are eligible for payouts](https://algora.io/docs/payments#supported-countries-regions)
+
+### ❗ Important guidelines:
+- To claim a bounty, you need to **provide a short demo video** of your changes in your pull request
+- If anything is unclear, **ask for clarification** before starting as this will help avoid potential rework
+- Low quality AI PRs will not receive review and will be closed
+- Do not ask to be assigned unless you've contributed before
+
+Thank you for contributing to mediar-ai/screenpipe!",NEGATIVE,0.9932643175125122
+1808,fix: arbitrary file access during archive extraction zipslip on index,/claim #1808,NEGATIVE,0.7655065655708313
+1808,fix: arbitrary file access during archive extraction zipslip on index,/attempt #1808,NEGATIVE,0.9365589618682861
+1805,rewind desktop app,"
+## 🧪 testing bounty created!
+
+a testing bounty has been created for this PR: [view testing issue](https://github.com/mediar-ai/screenpipe/issues/1806)
+
+testers will be awarded $20 each for providing quality test reports. please check the issue for testing requirements.
+",NEGATIVE,0.9956504702568054
+1805,rewind desktop app,how can i test it?,NEGATIVE,0.9984661340713501
+1805,rewind desktop app,issue was happening randomly. the settings were not loaded from file. so it was showing default settings. to test try reloading page or relaunching app again again. if you see the settings in app are reset(don't change anything in settings). check the settings file. settings will still be there,NEGATIVE,0.995434582233429
+1805,rewind desktop app,"@louis030195  Will the app be completely standalone, or will it share data with screenpipe-app? For example, if I have both screenpipe-app and rewind-app running on my PC, will the recording, resource and data be shared between them, or will they operate independently?",NEGATIVE,0.998992383480072
+1805,rewind desktop app,"Hey, is testing still required? i can help",NEGATIVE,0.9767956733703613
+1805,rewind desktop app,"> @louis030195 Will the app be completely standalone, or will it share data with screenpipe-app? For example, if I have both screenpipe-app and rewind-app running on my PC, will the recording, resource and data be shared between them, or will they operate independently?
+
+hmm
+
+i think it would make sense to be shared 
+
+tricky part is to check to avoid conflict, having two times the recorder in parallel 
+
+",NEGATIVE,0.9982216954231262
+1805,rewind desktop app,"> Hey, is testing still required? i can help
+
+later probably yes ",NEGATIVE,0.9183186888694763
+1805,rewind desktop app,"also wdyt of making this in the same folder than the existing tauri app, but during build time it would enable / disable specific feature in rust side / js side / show different UI?
+
+been considering this path too 
+
+and in CI/cd it would build 2 apps 
+
+one advantage is to keep the same code for rewind and stuff, not sure easier to maintain?
+
+",NEGATIVE,0.9966180920600891
+1805,rewind desktop app,"it could get more complex and code will be messy since we mixing two apps, also there is risk of breaking one app  while working on another.",NEGATIVE,0.9997460246086121
+1805,rewind desktop app,"<img width=""1512"" alt=""Screenshot 2025-06-18 at 6 10 24 PM"" src=""https://github.com/user-attachments/assets/fcc84007-aff9-4010-9b01-849c7dc487a7"" />
+<img width=""1512"" alt=""Screenshot 2025-06-18 at 6 10 20 PM"" src=""https://github.com/user-attachments/assets/381e05b0-5ecf-4811-9c8d-c619a1741102"" />
+
+
+somehow super zoomed in ",NEGATIVE,0.9912108182907104
+1805,rewind desktop app,"there are a few issues in the onboarding but i think its same one known in screenpipe such as:
+- most permissions randomly pop up at wrong timing (macos)
+- screen stream does not show up 
+- still facing issues with AI presets but idk
+- shortcuts show ""Super"" which is weird on Mac (should be cmd)
+
+
+overall its really great job, would love to ship this to all - also it's rly cool it can use the existing screenpipe data",POSITIVE,0.5495395660400391
+1805,rewind desktop app,"<img width=""1512"" alt=""Screenshot 2025-06-19 at 4 48 44 PM"" src=""https://github.com/user-attachments/assets/67c00d29-382d-4933-ab9e-bf6f7e82f189"" />
+
+not sure what changed, build crash for me now (when i open the app built with `bun tauri build`), maybe the window change ",NEGATIVE,0.9990677237510681
+1805,rewind desktop app,@louis030195 anything more to add to this pr? also could check if prev issues are fixed?,NEGATIVE,0.9974358677864075
+1805,rewind desktop app,"testing 
+
+for anyone wanting to install this app right now:
+
+do this or paste in cursor chat to do it for you:
+
+```bash
+gh pr checkout 1805
+cargo build --release
+cd openrewind
+bun i
+bun tauri build
+# open the end build .dmg path
+```",NEGATIVE,0.9984000325202942
+1805,rewind desktop app,"still crashing for me at start
+
+since around [196d53e](https://github.com/mediar-ai/screenpipe/pull/1805/commits/196d53ec305ee7e4acb1f772489e1f503168bff1)",NEGATIVE,0.9973686933517456
+1805,rewind desktop app,"could try deleting existing app (settings,etc) and install the new one?
+",NEGATIVE,0.9995300769805908
+1803,tabs,"
+## 🧪 testing bounty created!
+
+a testing bounty has been created for this PR: [view testing issue](https://github.com/mediar-ai/screenpipe/issues/1804)
+
+testers will be awarded $20 each for providing quality test reports. please check the issue for testing requirements.
+",NEGATIVE,0.9954355359077454
+1800,Added git-ls as a dependency in CONTRIBUTING.md,"
+## 🧪 testing bounty created!
+
+a testing bounty has been created for this PR: [view testing issue](https://github.com/mediar-ai/screenpipe/issues/1801)
+
+testers will be awarded $20 each for providing quality test reports. please check the issue for testing requirements.
+",NEGATIVE,0.9954062700271606
+1800,Added git-ls as a dependency in CONTRIBUTING.md,"I was setting up a local dev environment on macOS using the `CONTRIBUTING.md` when I found this PR.
+
+**What is `git-ls`? Should it be `git-lfs`**?
+
+```sh
+> brew install git-ls
+Warning: No available formula with the name ""git-ls"". Did you mean git-lfs, git-plus, git-ssh, g-ls, gitql or git-if?
+```
+",NEGATIVE,0.9996252059936523
+1797,fix audio device randomly stopping sometimes,"
+## 🧪 testing bounty created!
+
+a testing bounty has been created for this PR: [view testing issue](https://github.com/mediar-ai/screenpipe/issues/1798)
+
+testers will be awarded $20 each for providing quality test reports. please check the issue for testing requirements.
+",NEGATIVE,0.9952709078788757
+1797,fix audio device randomly stopping sometimes,how did you reproduce it? @Anmol202005 ,NEGATIVE,0.9951655864715576
+1797,fix audio device randomly stopping sometimes,"i had high hope for this PR :D but ...
+
+<img width=""1512"" alt=""Screenshot 2025-05-22 at 7 36 06 PM"" src=""https://github.com/user-attachments/assets/84c904fc-49fb-4777-b5b0-5bf3dfec00ea"" />
+<img width=""1512"" alt=""Screenshot 2025-05-22 at 7 37 03 PM"" src=""https://github.com/user-attachments/assets/5702f61d-52ca-4829-9cad-ef3216eddde7"" />
+
+<img width=""1512"" alt=""Screenshot 2025-05-22 at 7 35 13 PM"" src=""https://github.com/user-attachments/assets/5a0824f4-c621-4af5-a8c3-5afcb1c14745"" />
+
+
+
+interesting here ... i was in a store and walking around with mac open then went to toilet closed the lid then it crashed (display audio seems)
+
+but mic stopped working also then without error i think",NEGATIVE,0.6283218264579773
+1797,fix audio device randomly stopping sometimes,"> interesting here ... i was in a store and walking around with mac open then went to toilet closed the lid then it crashed (display audio seems)
+> 
+> but mic stopped working also then without error i think
+
+@louis030195 
+macOS can suspend audio when the system sleeps.
+",NEGATIVE,0.9990894794464111
+1797,fix audio device randomly stopping sometimes,"> > interesting here ... i was in a store and walking around with mac open then went to toilet closed the lid then it crashed (display audio seems)
+> > but mic stopped working also then without error i think
+> 
+> @louis030195 macOS can suspend audio when the system sleeps.
+
+so what's your solution?",NEGATIVE,0.9988901019096375
+1797,fix audio device randomly stopping sometimes,"> > > interesting here ... i was in a store and walking around with mac open then went to toilet closed the lid then it crashed (display audio seems)
+> > > but mic stopped working also then without error i think
+> > 
+> > @louis030195 macOS can suspend audio when the system sleeps.
+> 
+> so what's your solution?
+
+You closed the wrong lid. 😳",NEGATIVE,0.9991719722747803
+1795,make pipe manager optional,"
+## 🧪 testing bounty created!
+
+a testing bounty has been created for this PR: [view testing issue](https://github.com/mediar-ai/screenpipe/issues/1796)
+
+testers will be awarded $20 each for providing quality test reports. please check the issue for testing requirements.
+",NEGATIVE,0.9955213069915771
+1790,Fix: Fix getting app icons on Linux,"
+## 🧪 testing bounty created!
+
+a testing bounty has been created for this PR: [view testing issue](https://github.com/mediar-ai/screenpipe/issues/1791)
+
+testers will be awarded $20 each for providing quality test reports. please check the issue for testing requirements.
+",NEGATIVE,0.9956232905387878
+1788,fix: ignore minimized windows during capture,"
+## 🧪 testing bounty created!
+
+a testing bounty has been created for this PR: [view testing issue](https://github.com/mediar-ai/screenpipe/issues/1789)
+
+testers will be awarded $20 each for providing quality test reports. please check the issue for testing requirements.
+",NEGATIVE,0.9952918291091919
+1788,fix: ignore minimized windows during capture,thx,POSITIVE,0.5395302772521973
+1786,fix: Stop pipes before stopping screenpipe sidecar,"
+## 🧪 testing bounty created!
+
+a testing bounty has been created for this PR: [view testing issue](https://github.com/mediar-ai/screenpipe/issues/1787)
+
+testers will be awarded $20 each for providing quality test reports. please check the issue for testing requirements.
+",NEGATIVE,0.9952540397644043
+1784,fix: force reload user data before pipe purchases to prevent stale cr…,"
+## 🧪 testing bounty created!
+
+a testing bounty has been created for this PR: [view testing issue](https://github.com/mediar-ai/screenpipe/issues/1785)
+
+testers will be awarded $20 each for providing quality test reports. please check the issue for testing requirements.
+",NEGATIVE,0.9951983094215393
+1784,fix: force reload user data before pipe purchases to prevent stale cr…,@louis030195 I found the issue and implemented the fix Please review the PR and let me know if changes are required.,NEGATIVE,0.9589763283729553
+1780,fix model download ux,"
+## 🧪 testing bounty created!
+
+a testing bounty has been created for this PR: [view testing issue](https://github.com/mediar-ai/screenpipe/issues/1781)
+
+testers will be awarded $20 each for providing quality test reports. please check the issue for testing requirements.
+",NEGATIVE,0.9952934384346008
+1780,fix model download ux,/approve ,POSITIVE,0.9953932762145996
+1773,Update README.md with a greeting,"
+## 🧪 testing bounty created!
+
+a testing bounty has been created for this PR: [view testing issue](https://github.com/mediar-ai/screenpipe/issues/1774)
+
+testers will be awarded $20 each for providing quality test reports. please check the issue for testing requirements.
+",NEGATIVE,0.9955049157142639
+1773,Update README.md with a greeting,"nice first contribution
+
+maybe something else though, anything useful to mention in the readme?",POSITIVE,0.5835235118865967
+1766,feat(testing): add e2e test for windows and linux,"
+## 🧪 testing bounty created!
+
+a testing bounty has been created for this PR: [view testing issue](https://github.com/mediar-ai/screenpipe/issues/1767)
+
+testers will be awarded $20 each for providing quality test reports. please check the issue for testing requirements.
+",NEGATIVE,0.9959704875946045
+1766,feat(testing): add e2e test for windows and linux,@louis030195 is there anything more we need to do in this PR ?,NEGATIVE,0.9986391663551331
+1766,feat(testing): add e2e test for windows and linux,can you explain in plain english what does it test step by step? also if i understand correctly it will record the testing and upload to gh action?,NEGATIVE,0.9937815070152283
+1766,feat(testing): add e2e test for windows and linux,this is rly good overall !,POSITIVE,0.9998583793640137
+1766,feat(testing): add e2e test for windows and linux,"adding tip if you can make a second, additional, unit test using terminator SDK (only windows) - anyhow
+
+since some users ask for using terminator for desktop app UI testing, curious if it's good / how it compare with existing webdriver solutions",NEGATIVE,0.9942033886909485
+1766,feat(testing): add e2e test for windows and linux,"Hey @louis030195 — yep, you got it!
+
+Here’s a plain-English breakdown of what the E2E test setup actually does:
+
+* Sets up the environment to build a release version.
+* Installs `tauri-driver` to automate the app during tests.
+* Grabs the right version of Edge WebDriver to drive the app's built-in browser.
+* Runs the test suite using WebdriverIO
+
+  * The main test opens the app, skips onboarding, closes the changelogs popup, clicks the health icon, and checks that the app shows ""screenpipe is running smoothly.""
+
+* While the tests run, a script (`record.js`) kicks off ffmpeg to record the desktop.
+
+ * Starts recording at the beginning, stops at the end, and saves the video.
+
+* Uploads the screen recording and test logs as artifacts to GitHub Actions.
+* Also uploads the `.screenpipe` folder (which might have logs, DB files, or mp4s the app made during the test).
+
+
+So yep — your understanding is spot on: the test is recorded, and the video gets uploaded for review!
+
+Let me know if you want to tweak anything in the setup or if something seems off!
+",NEGATIVE,0.9979591369628906
+1766,feat(testing): add e2e test for windows and linux,"@louis030195 here is the video of our terminator based e2e test setup
+
+
+https://github.com/user-attachments/assets/2f45023d-03de-4759-b4f3-44650fab1e86
+
+I have kept it seperate and lightwight
+as these does not require heavy things like wdio or playwright etc",NEGATIVE,0.9807838797569275
+1766,feat(testing): add e2e test for windows and linux,"@louis030195 can you re-run the Window e2e test workflow job
+there was a hiccup in Chocolatey installation
+![image](https://github.com/user-attachments/assets/580c993a-e47f-4a2c-a196-d9c61ebcb19b)
+",NEGATIVE,0.9981536269187927
+1766,feat(testing): add e2e test for windows and linux,"this rly cool
+
+```
+|  …  -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('ht …
+     |                ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+     | Exception calling ""DownloadString"" with ""1"" argument(s): ""The remote server returned an error: (499) .""
+```
+
+just random server error?",NEGATIVE,0.9749796390533447
+1766,feat(testing): add e2e test for windows and linux,"@louis030195 just added a fix for it
+",NEGATIVE,0.980510413646698
+1766,feat(testing): add e2e test for windows and linux,/approve ,POSITIVE,0.9953932762145996
+1766,feat(testing): add e2e test for windows and linux,/tip $300 @divanshu-go ,NEGATIVE,0.9524500966072083
+1766,feat(testing): add e2e test for windows and linux,🎉🎈 @divanshu-go has been awarded **$300** by **Screenpi.pe**! 🎈🎊,POSITIVE,0.7837188243865967
+1766,feat(testing): add e2e test for windows and linux,amazing work ,POSITIVE,0.9998739957809448
+1764,Fix: Fixed Headphones/airpods configration issue,"
+## 🧪 testing bounty created!
+
+a testing bounty has been created for this PR: [view testing issue](https://github.com/mediar-ai/screenpipe/issues/1765)
+
+testers will be awarded $20 each for providing quality test reports. please check the issue for testing requirements.
+",NEGATIVE,0.9956133365631104
+1764,Fix: Fixed Headphones/airpods configration issue,/approve ,POSITIVE,0.9953932762145996
+1764,Fix: Fixed Headphones/airpods configration issue,/tip $100 @Anmol202005 ,NEGATIVE,0.9786754250526428
+1764,Fix: Fixed Headphones/airpods configration issue,🎉🎈 @Anmol202005 has been awarded **$100** by **Screenpi.pe**! 🎈🎊,POSITIVE,0.6196733713150024
+1761,fix: tray icon not changing on failed health check,"
+## 🧪 testing bounty created!
+
+a testing bounty has been created for this PR: [view testing issue](https://github.com/mediar-ai/screenpipe/issues/1762)
+
+testers will be awarded $20 each for providing quality test reports. please check the issue for testing requirements.
+",NEGATIVE,0.9955756664276123
+1759,Update windows-integration-test.yml to upload .screenpipe folder,"
+## 🧪 testing bounty created!
+
+a testing bounty has been created for this PR: [view testing issue](https://github.com/mediar-ai/screenpipe/issues/1760)
+
+testers will be awarded $20 each for providing quality test reports. please check the issue for testing requirements.
+",NEGATIVE,0.9956421852111816
+1757,fix: keyboard shortcuts on windows,"
+## 🧪 testing bounty created!
+
+a testing bounty has been created for this PR: [view testing issue](https://github.com/mediar-ai/screenpipe/issues/1758)
+
+testers will be awarded $20 each for providing quality test reports. please check the issue for testing requirements.
+",NEGATIVE,0.9958122372627258
+1757,fix: keyboard shortcuts on windows,/approve ,POSITIVE,0.9953932762145996
+1751,feat: add device_name in frame table and search query return,"
+## 🧪 testing bounty created!
+
+a testing bounty has been created for this PR: [view testing issue](https://github.com/mediar-ai/screenpipe/issues/1752)
+
+testers will be awarded $20 each for providing quality test reports. please check the issue for testing requirements.
+",NEGATIVE,0.9952996969223022
+1748,fix: screenpipe not working due to IPv6 port and wrong design flow,"
+## 🧪 testing bounty created!
+
+a testing bounty has been created for this PR: [view testing issue](https://github.com/mediar-ai/screenpipe/issues/1749)
+
+testers will be awarded $20 each for providing quality test reports. please check the issue for testing requirements.
+",NEGATIVE,0.9954646229743958
+1748,fix: screenpipe not working due to IPv6 port and wrong design flow,"@louis030195 
+![image](https://github.com/user-attachments/assets/c13c4532-88b8-4af5-a63c-4f156fd99253)
+",NEGATIVE,0.9795262813568115
+1748,fix: screenpipe not working due to IPv6 port and wrong design flow,"Link to the Build (Windows)
+https://drive.google.com/file/d/10pB8JfVQZmPVbuPAd1x_H-bkxZdVdQQo/view?usp=sharing",NEGATIVE,0.9939707517623901
+1748,fix: screenpipe not working due to IPv6 port and wrong design flow,"> Link to the Build (Windows)
+> https://drive.google.com/file/d/10pB8JfVQZmPVbuPAd1x_H-bkxZdVdQQo/view?usp=sharing
+
+Can I buy you coffee",NEGATIVE,0.9925432205200195
+1748,fix: screenpipe not working due to IPv6 port and wrong design flow,"@vasceannie Yes , 
+https://buymeacoffee.com/divanshugo",NEGATIVE,0.9543871879577637
+1748,fix: screenpipe not working due to IPv6 port and wrong design flow,"@louis030195 https://github.com/mediar-ai/screenpipe/pull/1748/commits/fcbc4fdcaaa4b8b80c72beada600621048289f6b fixes the wrong design flow which assumed that even first time screenpipe user had completed their onboarding window and had pressed that start recording button
+but some users dont complete the onboarding 
+therefore we need to fix that",NEGATIVE,0.99930739402771
+1748,fix: screenpipe not working due to IPv6 port and wrong design flow,"@vasceannie  Here is the New build
+https://drive.google.com/file/d/10pB8JfVQZmPVbuPAd1x_H-bkxZdVdQQo/view?usp=sharing",NEGATIVE,0.9961950778961182
+1746,Fix: Add CLI port override and dynamic  fallback to  avoid conflicts on Windows,"
+## 🧪 testing bounty created!
+
+a testing bounty has been created for this PR: [view testing issue](https://github.com/mediar-ai/screenpipe/issues/1747)
+
+testers will be awarded $20 each for providing quality test reports. please check the issue for testing requirements.
+",NEGATIVE,0.9954363703727722
+1744,fix: CONTRIBUTING.md - windows part,"hey! thanks for the contribution. would you mind adding more details about: - what problem you're trying to solve - why this change is needed - any relevant context or screenshots
+this helps us review and merge faster! 🚀
+",POSITIVE,0.9973158240318298
+1744,fix: CONTRIBUTING.md - windows part,"
+## 🧪 testing bounty created!
+
+a testing bounty has been created for this PR: [view testing issue](https://github.com/mediar-ai/screenpipe/issues/1745)
+
+testers will be awarded $20 each for providing quality test reports. please check the issue for testing requirements.
+",NEGATIVE,0.9955188035964966
+1742,fix: CONTRIBUTING.md 's Windows Part,"
+## 🧪 testing bounty created!
+
+a testing bounty has been created for this PR: [view testing issue](https://github.com/mediar-ai/screenpipe/issues/1743)
+
+testers will be awarded $20 each for providing quality test reports. please check the issue for testing requirements.
+",NEGATIVE,0.9954773783683777
+1739,Add H1 and Pulse Badge,"
+## 🧪 testing bounty created!
+
+a testing bounty has been created for this PR: [view testing issue](https://github.com/mediar-ai/screenpipe/issues/1740)
+
+testers will be awarded $20 each for providing quality test reports. please check the issue for testing requirements.
+",NEGATIVE,0.9953693747520447
+1735,Create deploy.yml,"
+## 🧪 testing bounty created!
+
+a testing bounty has been created for this PR: [view testing issue](https://github.com/mediar-ai/screenpipe/issues/1736)
+
+testers will be awarded $20 each for providing quality test reports. please check the issue for testing requirements.
+",NEGATIVE,0.9954908490180969
+1735,Create deploy.yml,"this is wrong (like 2m light years from what we wanted to do)
+",NEGATIVE,0.999625563621521
+1732,download old versions because of EGL issues on rolling release Linux Distros,"
+## 🧪 testing bounty created!
+
+a testing bounty has been created for this PR: [view testing issue](https://github.com/mediar-ai/screenpipe/issues/1733)
+
+testers will be awarded $20 each for providing quality test reports. please check the issue for testing requirements.
+",NEGATIVE,0.9954864382743835
+1732,download old versions because of EGL issues on rolling release Linux Distros,"@louis030195 
+
+### Before
+
+![image](https://github.com/user-attachments/assets/9ea9e7bf-6291-4a06-a858-514512202a2e)
+
+
+### After
+
+![image](https://github.com/user-attachments/assets/6d7a90e6-2fe9-4ef4-b838-5d12e65ec399)
+
+",NEGATIVE,0.9962033629417419
+1732,download old versions because of EGL issues on rolling release Linux Distros,"/tip $200 @divanshu-go 
+
+for the hackathon stuff we discussed on discord ",NEGATIVE,0.9969573020935059
+1732,download old versions because of EGL issues on rolling release Linux Distros,🎉🎈 @divanshu-go has been awarded **$200** by **Screenpi.pe**! 🎈🎊,POSITIVE,0.6128408312797546
+1729,remove unused Cargo.lock file from screenpipe-server,"
+## 🧪 testing bounty created!
+
+a testing bounty has been created for this PR: [view testing issue](https://github.com/mediar-ai/screenpipe/issues/1730)
+
+testers will be awarded $20 each for providing quality test reports. please check the issue for testing requirements.
+",NEGATIVE,0.9955360889434814
+1727,refactor: use core-graphics-helmer-fork instead of scap,"
+## 🧪 testing bounty created!
+
+a testing bounty has been created for this PR: [view testing issue](https://github.com/mediar-ai/screenpipe/issues/1728)
+
+testers will be awarded $20 each for providing quality test reports. please check the issue for testing requirements.
+",NEGATIVE,0.9957966804504395
+1727,refactor: use core-graphics-helmer-fork instead of scap,@louis030195 this reduces a lot of heavy crates on macos,NEGATIVE,0.9958643913269043
+1724,enhance linux package installation process in pre_build.js,"
+## 🧪 testing bounty created!
+
+a testing bounty has been created for this PR: [view testing issue](https://github.com/mediar-ai/screenpipe/issues/1725)
+
+testers will be awarded $20 each for providing quality test reports. please check the issue for testing requirements.
+",NEGATIVE,0.9956467747688293
+1721,bump tauri to fix path resolution,"
+## 🧪 testing bounty created!
+
+a testing bounty has been created for this PR: [view testing issue](https://github.com/mediar-ai/screenpipe/issues/1722)
+
+testers will be awarded $20 each for providing quality test reports. please check the issue for testing requirements.
+",NEGATIVE,0.9954185485839844
+1721,bump tauri to fix path resolution,thx,POSITIVE,0.5395302772521973
+1719,document env variables in CLI reference,"
+## 🧪 testing bounty created!
+
+a testing bounty has been created for this PR: [view testing issue](https://github.com/mediar-ai/screenpipe/issues/1720)
+
+testers will be awarded $20 each for providing quality test reports. please check the issue for testing requirements.
+",NEGATIVE,0.9954132437705994
+1719,document env variables in CLI reference,"@Omar8345 as already said by @neo773 
+in the following comment https://github.com/mediar-ai/screenpipe/pull/1447#issuecomment-2675243225
+
+This is not the Right Approach !
+
+as it  creates future maintenance burden, instead we should consolidate all the envs in a crate and reference it, then you can run codegen on the env.rs file to generate a markdown file.",NEGATIVE,0.9997825026512146
+1719,document env variables in CLI reference,You can ask @neo773 cause its his Idea,NEGATIVE,0.9793533682823181
+1719,document env variables in CLI reference,@divanshu-go maybe leave your suggestions,NEGATIVE,0.9940664768218994
+1719,document env variables in CLI reference,Feel free to work on this PR,POSITIVE,0.9864811897277832
+1719,document env variables in CLI reference,"> Feel free to work on this PR
+
+@neo773 I made a commit you saw that? Maybe you can leave a comment if its good or need changes
+
+[#ca6001e](https://github.com/mediar-ai/screenpipe/pull/1719/commits/ca6001e77e77ca5573b62faa870ef9c0e786addf)",NEGATIVE,0.996422290802002
+1719,document env variables in CLI reference,"
+![image](https://github.com/user-attachments/assets/68d1c026-6429-41a4-aacb-a8b03b2a018b)
+
+@Omar8345 Please resolve this mistake 
+
+You have changed the permissions of these 2 files from `executable` --> `non-executable`
+
+please remove them from your PR  as soon as possible
+
+```bash
+chmod 755 screenpipe-vision/bin/ui_monitor
+chmod 755 screenpipe-vision/bin/ui_monitor-aarch64-apple-darwin
+```
+
+and then commit them",NEGATIVE,0.9996875524520874
+1719,document env variables in CLI reference,@divanshu-go done,POSITIVE,0.6932648420333862
+1719,document env variables in CLI reference,@Omar8345 Also please Generate the Docs if your code can do that.,NEGATIVE,0.868291437625885
+1719,document env variables in CLI reference,"> @Omar8345 Also please Generate the Docs if your code can do that.
+
+@divanshu-go just run it like by cd to the folder `screenpipe-cli-envs` and run the code, it'll populate the mdx file if you read the logic",NEGATIVE,0.9934558272361755
+1719,document env variables in CLI reference,"@Omar8345 I'm just asking you to generate the docs and commit them.
+",POSITIVE,0.7036746144294739
+1719,document env variables in CLI reference,"@divanshu-go All good, just one question, `CUSTOM_DEEPGRAM_API_KEY` and `CUSTOM_DEEPGRAM_API_TOKEN` could you explain the use of those environment variables so I can document them or is that not needed because I usually see them used in tests?",NEGATIVE,0.5759537220001221
+1719,document env variables in CLI reference,"@Omar8345 `CUSTOM_DEEPGRAM_API_TOKEN` is used in `screenpipe/screenpipe-audio/src/transcription/deepgram/mod.rs` so you should document it.
+
+while `CUSTOM_DEEPGRAM_API_KEY`  can be dropped as it is used in test only , `screenpipe/screenpipe-audio/tests/realtime_test.rs` so there is no reason to document it.",NEGATIVE,0.9997867941856384
+1719,document env variables in CLI reference,"@Omar8345 You changed the formatting of `screenpipe-app-tauri/tsconfig.json`
+Please fix it.",NEGATIVE,0.9981479644775391
+1719,document env variables in CLI reference,"> @Omar8345 You changed the formatting of `screenpipe-app-tauri/tsconfig.json` Please fix it.
+
+oh god my prettifier thingy lmao",NEGATIVE,0.9978649020195007
+1719,document env variables in CLI reference,"@divanshu-go `CUSTOM_DEEPGRAM_API_TOKEN` this is optional, only required when using Deepgram for live transcription uhm?",NEGATIVE,0.9971039891242981
+1719,document env variables in CLI reference,@Omar8345 yes !,POSITIVE,0.9965419173240662
+1719,document env variables in CLI reference,"@divanshu-go done :heart: - sorry for the trouble as I'm not used to OSS contributing because I rarely do so & I'm new to screenpipe, love the software tho
+
+also do you have any idea if payouts to PayPal is possible since Algora needs Stripe & I don't have it - please confirm with me before proceeding with bounty",NEGATIVE,0.9857596755027771
+1719,document env variables in CLI reference,@divanshu-go please let me know if there's something more,POSITIVE,0.6119739413261414
+1719,document env variables in CLI reference,"@divanshu-go Fixed it, I used a comment in MDX (`{/* ENVIRONMENT VARIABLES WILL AUTOMATICALLY POPULATE HERE */}`) which will surround the populated text so it knows where to replace the new text. I tested it and it's good.",POSITIVE,0.9995027780532837
+1719,document env variables in CLI reference,"@Omar8345 Why are doing this again and again ?
+![image](https://github.com/user-attachments/assets/caaf79bf-49c6-4085-8aae-6cdeee304ff2)
+",NEGATIVE,0.9973777532577515
+1719,document env variables in CLI reference,"@divanshu-go I believed I fixed it, here again
+
+now its confirmed to be fixed ",NEGATIVE,0.9877324104309082
+1719,document env variables in CLI reference,"@divanshu-go @louis030195 please update
+",POSITIVE,0.9748801589012146
+1719,document env variables in CLI reference,"Hi @Omar8345,
+Kindly avoid repeatedly pinging us. @louis030195 will review your PR when he has the time.
+
+Please understand that reviews can't be rushed or forced — we appreciate your patience.
+Also, I've already contributed several reviews to this PR.",POSITIVE,0.9965381622314453
+1719,document env variables in CLI reference,@louis030195 Please update.,POSITIVE,0.9910382032394409
+1719,document env variables in CLI reference,can I have some estimate please,POSITIVE,0.7083307504653931
+1719,document env variables in CLI reference,"@divanshu-go @louis030195 this Pull Request has been waiting for almost a month! please do something
+
+cc @neo773 ",NEGATIVE,0.968479573726654
+1719,document env variables in CLI reference,"@Omar8345 I understand the wait can be frustrating, and we appreciate your enthusiasm. Just to clarify, the merge decision is with @louis030195 since he's the maintainer. Unfortunately, we can't speed that up on our end. Thanks again for your patience and contribution.
+
+",POSITIVE,0.9970244765281677
+1719,document env variables in CLI reference,this is very bloated and beyond the scope of the issue ,NEGATIVE,0.9993532299995422
+1719,document env variables in CLI reference,"@louis030195 please clarify what needs to be changed
+
+I already simply documented the envs into the documentation immediately but such implementation was requested and therefore implemented.",NEGATIVE,0.9639977216720581
+1717,fix cmake compile time errors,"
+## 🧪 testing bounty created!
+
+a testing bounty has been created for this PR: [view testing issue](https://github.com/mediar-ai/screenpipe/issues/1718)
+
+testers will be awarded $20 each for providing quality test reports. please check the issue for testing requirements.
+",NEGATIVE,0.9952869415283203
+1717,fix cmake compile time errors,"```zsh
+
+    Finished `release` profile [optimized] target(s) in 15m 19s
+➜  screenpipe git:(cmake) cmake --version
+cmake version 4.0.1
+
+CMake suite maintained and supported by Kitware (kitware.com/cmake).
+➜  screenpipe git:(cmake) 
+
+```",NEGATIVE,0.9983933568000793
+1717,fix cmake compile time errors,@louis030195 are there any required chnages for this PR ?,NEGATIVE,0.9990314245223999
+1711,revert libsamplerate cause it fails build,"
+## 🧪 testing bounty created!
+
+a testing bounty has been created for this PR: [view testing issue](https://github.com/mediar-ai/screenpipe/issues/1712)
+
+testers will be awarded $20 each for providing quality test reports. please check the issue for testing requirements.
+",NEGATIVE,0.9957253932952881
+1711,revert libsamplerate cause it fails build,"this is still won't fix the compilation error of `libsamplerate` 
+
+the issue is with cmake version and adding this line will fix the issue:
+```rust
+        .define(""CMAKE_POLICY_VERSION_MINIMUM"", ""3.5"");
+```
+
+here: https://github.com/Prior99/libsamplerate-sys/blob/e4461748f110a7687cfb7340311b43bd79310199/build.rs#L9
+
+also in `rust-samplerate` there is need to update the `libsamplerate`
+
+maybe @louis030195 should fork these repos, would be better for future updates
+https://github.com/Prior99/rust-samplerate.git
+https://github.com/Prior99/libsamplerate-sys
+
+
+
+",NEGATIVE,0.9995365142822266
+1711,revert libsamplerate cause it fails build,"@tribhuwan-kumar I know that this PR not a fix to that issue 
+
+My PR just revert the commit so that the build works on windows
+
+BTW instead of doing      ```   .define(""CMAKE_POLICY_VERSION_MINIMUM"", ""3.5""); ```
+
+we should instead edit this line and change the version number to ```3.16```
+ ```cmake_minimum_required(VERSION 3.16)```
+ 
+ this is because https://github.com/libsndfile/libsamplerate/commit/15c392d47e71b9395a759544b3818a1235fe1a1d
+ 
+ also we will need to do  this thing in the following repo (some might have git-module which has the cmake thing)
+ 
+ https://github.com/Prior99/rust-samplerate.git
+https://github.com/Prior99/libsamplerate-sys
+https://github.com/divanshu-go/knf-rs
+https://github.com/thewh1teagle/vad-rs
+https://github.com/tazz4843/whisper-rs
+
+`ALL OF THESE REPO DEPEND ON CMAKE `
+
+they have circular dependencies over each other and therefore this is more bigger issue and needs to be solved (also making sure we revert the code chnages in these repo that we dont need for now using ```git revert```)",NEGATIVE,0.9994949102401733
+1708,fix compilation error due to cmake version,"
+## 🧪 testing bounty created!
+
+a testing bounty has been created for this PR: [view testing issue](https://github.com/mediar-ai/screenpipe/issues/1709)
+
+testers will be awarded $20 each for providing quality test reports. please check the issue for testing requirements.
+",NEGATIVE,0.9954711198806763
+1704,Improve notion pipe,"
+## 🧪 testing bounty created!
+
+a testing bounty has been created for this PR: [view testing issue](https://github.com/mediar-ai/screenpipe/issues/1705)
+
+testers will be awarded $20 each for providing quality test reports. please check the issue for testing requirements.
+",NEGATIVE,0.995537281036377
+1704,Improve notion pipe,/approve ,POSITIVE,0.9953932762145996
+1701,Update copyright year in LICENSE.md,"
+## 🧪 testing bounty created!
+
+a testing bounty has been created for this PR: [view testing issue](https://github.com/mediar-ai/screenpipe/issues/1702)
+
+testers will be awarded $20 each for providing quality test reports. please check the issue for testing requirements.
+",NEGATIVE,0.9952055215835571
+1696,window UI Automation (wip),"@Rutik7066 is attempting to deploy a commit to the **louis030195's projects** Team on [Vercel](https://vercel.com).
+
+A member of the Team first needs to [authorize it](https://vercel.com/git/authorize?team=louis030195's%20projects&type=github&job=%7B%22headInfo%22%3A%7B%22sha%22%3A%22fabf4de8f1efd3f5b08ae5f233b8cb39ec47b8c2%22%7D%2C%22id%22%3A%22QmaCdN1cVWPTNf11jjWKMuY312U1H5zrT3dwQKuAWVVEpE%22%2C%22org%22%3A%22mediar-ai%22%2C%22prId%22%3A1696%2C%22repo%22%3A%22screenpipe%22%7D).
+
+",NEGATIVE,0.9979199767112732
+1696,window UI Automation (wip),"
+## 🧪 testing bounty created!
+
+a testing bounty has been created for this PR: [view testing issue](https://github.com/mediar-ai/screenpipe/issues/1697)
+
+testers will be awarded $20 each for providing quality test reports. please check the issue for testing requirements.
+",NEGATIVE,0.9954599738121033
+1694,feat: windows ui automation,"Someone is attempting to deploy a commit to the **louis030195's projects** Team on [Vercel](https://vercel.com).
+
+A member of the Team first needs to [authorize it](https://vercel.com/git/authorize?team=louis030195's%20projects&type=github&job=%7B%22headInfo%22%3A%7B%22sha%22%3A%227546870caf2876fd0150c63ee0087b42286c84c6%22%7D%2C%22id%22%3A%22QmfZNUbHyNsUCxGXFnM8oaBZ6ZnrMFT81VDuxR2H9K1Aay%22%2C%22org%22%3A%22mediar-ai%22%2C%22prId%22%3A1694%2C%22repo%22%3A%22screenpipe%22%7D).
+
+",NEGATIVE,0.9970966577529907
+1694,feat: windows ui automation,"
+## 🧪 testing bounty created!
+
+a testing bounty has been created for this PR: [view testing issue](https://github.com/mediar-ai/screenpipe/issues/1695)
+
+testers will be awarded $20 each for providing quality test reports. please check the issue for testing requirements.
+",NEGATIVE,0.9955182671546936
+1694,feat: windows ui automation,"nice!
+
+whats the status?",POSITIVE,0.9997307658195496
+1694,feat: windows ui automation,"> nice!
+> 
+> whats the status?
+
+need to 2 more methods,
+
+& windows doesn't support hover automation",NEGATIVE,0.9456020593643188
+1694,feat: windows ui automation,any recs i can test easily on my windows machine?,NEGATIVE,0.997230589389801
+1694,feat: windows ui automation,"> any recs i can test easily on my windows machine?
+
+should i write test?
+or you can test by doing reqs on these endpoints
+
+https://github.com/mediar-ai/screenpipe/blob/e0949a9c3fc7906a4c31587fd8f08abdfa6afefe/screenpipe-server/src/server.rs#L1156",NEGATIVE,0.9975144863128662
+1694,feat: windows ui automation,"@tribhuwan-kumar maybe just add a file in examples that let me try different things with operator, simple, mostly because i cannot compile the monorepo due to audio issue on my windows ",NEGATIVE,0.9985024929046631
+1694,feat: windows ui automation,"> @tribhuwan-kumar maybe just add a file in examples that let me try different things with operator, simple, mostly because i cannot compile the monorepo due to audio issue on my windows
+
+sure!
+",NEGATIVE,0.9978694915771484
+1694,feat: windows ui automation,"related for later 
+
+https://github.com/mediar-ai/ui-events",NEGATIVE,0.9919695258140564
+1694,feat: windows ui automation,"tested on my windows - looks good
+
+maybe can you implement some unit tests? and let's try to have clearer idea of what works / what's missing ",NEGATIVE,0.999665379524231
+1694,feat: windows ui automation,"/approve 
+
+merging for now, but can you finish with?
+
+> tested on my windows - looks good
+> 
+> maybe can you implement some unit tests? and let's try to have clearer idea of what works / what's missing
+
+",NEGATIVE,0.9930586814880371
+1694,feat: windows ui automation,"> /approve 
+> 
+> merging for now, but can you finish with?
+> 
+> > tested on my windows - looks good
+> > 
+> > maybe can you implement some unit tests? and let's try to have clearer idea of what works / what's missing
+> 
+> 
+
+sure!!",NEGATIVE,0.9773589372634888
+1694,feat: windows ui automation,"@louis030195 
+
+how are you expecting the tests should be?
+like you modified the example based on the simulation rather than evaluating the output values. 
+so i think the tests should also define by simulating ui elements
+
+wdyt?",NEGATIVE,0.9991717338562012
+1690,"fix: killing backend in linux, it shouldn't kill the app","@tribhuwan-kumar is attempting to deploy a commit to the **louis030195's projects** Team on [Vercel](https://vercel.com).
+
+A member of the Team first needs to [authorize it](https://vercel.com/git/authorize?team=louis030195's%20projects&type=github&job=%7B%22headInfo%22%3A%7B%22sha%22%3A%2249fc2d0368db771a02545ce7801e9bd0398b8103%22%7D%2C%22id%22%3A%22QmRNqdKj5Kz2p188wkJhPNhjbS2oPcysGzcnXSaBjrrd2G%22%2C%22org%22%3A%22mediar-ai%22%2C%22prId%22%3A1690%2C%22repo%22%3A%22screenpipe%22%7D).
+
+",NEGATIVE,0.997512936592102
+1690,"fix: killing backend in linux, it shouldn't kill the app","
+## 🧪 testing bounty created!
+
+a testing bounty has been created for this PR: [view testing issue](https://github.com/mediar-ai/screenpipe/issues/1691)
+
+testers will be awarded $20 each for providing quality test reports. please check the issue for testing requirements.
+",NEGATIVE,0.9948750138282776
+1690,"fix: killing backend in linux, it shouldn't kill the app","@tribhuwan-kumar 
+
+thanks for asking !
+
+![Image](https://github.com/user-attachments/assets/d7b42f3f-e9ae-4f83-be50-3a7cb77927ef)
+
+https://github.com/user-attachments/assets/49e9adb0-3950-46ee-a398-3db20138dacb
+
+
+
+# Result
+--> Works as Expected !
+
+",POSITIVE,0.9949430823326111
+1690,"fix: killing backend in linux, it shouldn't kill the app","@divanshu-go 
+
+thanks for the test, that's the expected behavior!! 
+
+cc: @louis030195 ",POSITIVE,0.9740714430809021
+1690,"fix: killing backend in linux, it shouldn't kill the app",thanks all!,POSITIVE,0.9997816681861877
+1688,feat: support for active Browser URL detection in linux,"@divanshu-go is attempting to deploy a commit to the **louis030195's projects** Team on [Vercel](https://vercel.com).
+
+A member of the Team first needs to [authorize it](https://vercel.com/git/authorize?team=louis030195's%20projects&type=github&job=%7B%22headInfo%22%3A%7B%22sha%22%3A%228b39cabfd97bbd53015500aa427cc023ff261b64%22%7D%2C%22id%22%3A%22Qmf8yi9qBjZFqzcFScQiaxG4PMEy8TN7UjDgRpGHti3Vq9%22%2C%22org%22%3A%22mediar-ai%22%2C%22prId%22%3A1688%2C%22repo%22%3A%22screenpipe%22%7D).
+
+",NEGATIVE,0.997766375541687
+1688,feat: support for active Browser URL detection in linux,"
+## 🧪 testing bounty created!
+
+a testing bounty has been created for this PR: [view testing issue](https://github.com/mediar-ai/screenpipe/issues/1689)
+
+testers will be awarded $20 each for providing quality test reports. please check the issue for testing requirements.
+",NEGATIVE,0.9955442547798157
+1688,feat: support for active Browser URL detection in linux,"@louis030195 
+
+Arc Browser isn’t available on Linux yet, 
+
+",NEGATIVE,0.9967541098594666
+1688,feat: support for active Browser URL detection in linux,"# Works on all major Browser
+
+## 1. Firefox 
+
+![image](https://github.com/user-attachments/assets/bcd3ecc9-21dd-4027-b091-d7d6b977731a)
+
+
+## 2. Google Chrome
+
+![image](https://github.com/user-attachments/assets/5b1a7d09-f653-428c-8c13-3e6ad3edaa02)
+
+
+## 3. Chromium
+
+![image](https://github.com/user-attachments/assets/950fc4a5-de31-4fb9-96a3-add9e294cae5)
+
+
+## 4. Brave
+
+![image](https://github.com/user-attachments/assets/aea339b3-4155-41d7-a480-ce3d98c92856)
+
+
+## 5. Opera
+
+![image](https://github.com/user-attachments/assets/95e0a6d2-0eaa-40bc-9008-ae5177ffede4)
+
+## 6. Microsoft Edge
+
+![image](https://github.com/user-attachments/assets/5c3889fa-c3f0-4bc4-99a7-8a892cffebdb)
+
+
+## 7. Vivaldi
+
+![image](https://github.com/user-attachments/assets/3333f467-812b-412d-81c4-d5429ea0fd22)
+",NEGATIVE,0.9798089861869812
+1688,feat: support for active Browser URL detection in linux,@louis030195 are there any other changes required for this PR ?,NEGATIVE,0.9987245202064514
+1688,feat: support for active Browser URL detection in linux,"yes - someone to test this, i cannot / wont test myself",POSITIVE,0.7659035921096802
+1688,feat: support for active Browser URL detection in linux,@tribhuwan-kumar can you please test this one ?,NEGATIVE,0.7359462976455688
+1688,feat: support for active Browser URL detection in linux,"> @tribhuwan-kumar can you please test this one ?
+
+sure, let me test it!",POSITIVE,0.9884358644485474
+1688,feat: support for active Browser URL detection in linux,"@louis030195 I tested it on my Kali Linux (KDE PLASMA)
+
+```
+2025-04-09T19:57:00.603526Z DEBUG screenpipe_vision::browser_utils::linux: Found browser process with PID: 6205
+2025-04-09T19:57:00.604179Z DEBUG screenpipe_vision::browser_utils::linux: Found matching frame by title: mediar-ai/screenpipe: AI app store powered by 24/7 desktop history. open source | 100% local | dev friendly | 24/7 screen, mic recording — Mozilla Firefox
+2025-04-09T19:57:00.604669Z DEBUG screenpipe_vision::browser_utils::linux: Found DocumentWeb with valid URL: https://github.com/mediar-ai/screenpipe
+2025-04-09T19:57:00.604794Z DEBUG screenpipe_vision::browser_utils::linux: Found URL: https://github.com/mediar-ai/screenpipe
+
+```
+
+this one is from firefox",NEGATIVE,0.9956648945808411
+1688,feat: support for active Browser URL detection in linux," ```
+2025-04-09T22:04:29.452031Z ERROR screenpipe_vision::browser_utils::linux: Error finding browser process: No browser process found with PID 1896239
+```
+
+![image](https://github.com/user-attachments/assets/7ece1bc1-161c-4632-9f9e-f7e2bd8f84c4)
+
+
+i'm getting this error even tho pid is valid
+
+![image](https://github.com/user-attachments/assets/1cc7a941-6c8c-4010-a64c-26277ab35303)
+
+cc: @divanshu-go ",NEGATIVE,0.9990341663360596
+1688,feat: support for active Browser URL detection in linux,"@louis030195 I tested it for chromium browser
+
+```
+2025-04-09T22:18:58.451901Z DEBUG screenpipe_vision::browser_utils::linux: Found browser process with PID: 26425
+2025-04-09T22:18:58.452734Z DEBUG screenpipe_vision::browser_utils::linux: Found matching frame by title: Chromium Docs - Tips for debugging on Linux - Chromium
+2025-04-09T22:18:58.454093Z DEBUG screenpipe_vision::browser_utils::linux: Found DocumentWeb with valid URL: https://chromium.googlesource.com/chromium/src/+/HEAD/docs/linux/debugging.md
+2025-04-09T22:18:58.454597Z DEBUG screenpipe_vision::browser_utils::linux: Found URL: https://chromium.googlesource.com/chromium/src/+/HEAD/docs/linux/debugging.md
+
+```
+",NEGATIVE,0.993591845035553
+1688,feat: support for active Browser URL detection in linux,"@tribhuwan-kumar I think you need to kill that pid 
+
+reason -->  browsers reads the following value
+ ```bash
+ dbus-send --print-reply --type=method_call --dest=org.a11y.Bus /org/a11y/bus org.freedesktop.DBus.Properties.Set string:org.a11y.Status string:IsEnabled variant:boolean:true
+ ```
+
+and then they start appearing on atspi tree
+
+https://stackoverflow.com/questions/65946258/firefox-at-spi-support-in-ubuntu",NEGATIVE,0.9990416169166565
+1688,feat: support for active Browser URL detection in linux,"> @tribhuwan-kumar I think you need to kill that pid 
+> 
+> reason -->  browsers reads the following value
+>  ```bash
+>  dbus-send --print-reply --type=method_call --dest=org.a11y.Bus /org/a11y/bus org.freedesktop.DBus.Properties.Set string:org.a11y.Status string:IsEnabled variant:boolean:true
+>  ```
+> 
+> and then they start appearing on atspi tree
+> 
+> https://stackoverflow.com/questions/65946258/firefox-at-spi-support-in-ubuntu
+
+maybe you're right! but I can't test right now. my linux laptop isn't charging, idk why
+
+also you've already tested it & it seems working fine. I think louis should merge it!",NEGATIVE,0.9965841770172119
+1688,feat: support for active Browser URL detection in linux,@louis030195 Do you need more testing ?,NEGATIVE,0.9966033697128296
+1688,feat: support for active Browser URL detection in linux,nice!,POSITIVE,0.999863862991333
+1688,feat: support for active Browser URL detection in linux,/tip $100 @divanshu-go ,NEGATIVE,0.9633589386940002
+1688,feat: support for active Browser URL detection in linux,🎉🎈 @divanshu-go has been awarded **$100** by **Screenpi.pe**! 🎈🎊,POSITIVE,0.7087264657020569
+1686,fix: Linux Intergration Test,"@divanshu-go is attempting to deploy a commit to the **louis030195's projects** Team on [Vercel](https://vercel.com).
+
+A member of the Team first needs to [authorize it](https://vercel.com/git/authorize?team=louis030195's%20projects&type=github&job=%7B%22headInfo%22%3A%7B%22sha%22%3A%22abbedf29a1adcad26280aded65816e6ccb363d28%22%7D%2C%22id%22%3A%22QmaMnHNSC5d3w1xifPnSfweFz823fpmdx58Ud4cUY8uYdb%22%2C%22org%22%3A%22mediar-ai%22%2C%22prId%22%3A1686%2C%22repo%22%3A%22screenpipe%22%7D).
+
+",NEGATIVE,0.997576892375946
+1686,fix: Linux Intergration Test,"
+## 🧪 testing bounty created!
+
+a testing bounty has been created for this PR: [view testing issue](https://github.com/mediar-ai/screenpipe/issues/1687)
+
+testers will be awarded $20 each for providing quality test reports. please check the issue for testing requirements.
+",NEGATIVE,0.9948720335960388
+1686,fix: Linux Intergration Test,nice,POSITIVE,0.9998552799224854
+1684,fix: syntax error in install.ps1,"@divanshu-go is attempting to deploy a commit to the **louis030195's projects** Team on [Vercel](https://vercel.com).
+
+A member of the Team first needs to [authorize it](https://vercel.com/git/authorize?team=louis030195's%20projects&type=github&job=%7B%22headInfo%22%3A%7B%22sha%22%3A%221786835b589118e30293b4fa61a80b7be6662f59%22%7D%2C%22id%22%3A%22QmPKXiJHFU8KrKHFVYuiZzgc3xhqDszBugfxrXHNCa4QsT%22%2C%22org%22%3A%22mediar-ai%22%2C%22prId%22%3A1684%2C%22repo%22%3A%22screenpipe%22%7D).
+
+",NEGATIVE,0.9976338148117065
+1684,fix: syntax error in install.ps1,"
+## 🧪 testing bounty created!
+
+a testing bounty has been created for this PR: [view testing issue](https://github.com/mediar-ai/screenpipe/issues/1685)
+
+testers will be awarded $20 each for providing quality test reports. please check the issue for testing requirements.
+",NEGATIVE,0.9954337477684021
+1684,fix: syntax error in install.ps1,thx,POSITIVE,0.5395302772521973
+1683,Add: Client screenshot to server,"@rhysqi is attempting to deploy a commit to the **louis030195's projects** Team on [Vercel](https://vercel.com).
+
+A member of the Team first needs to [authorize it](https://vercel.com/git/authorize?team=louis030195's%20projects&type=github&job=%7B%22headInfo%22%3A%7B%22sha%22%3A%22d0ba701ffae290008b8f113302ee99b78f9a7769%22%7D%2C%22id%22%3A%22QmcDyitaGfdVZWy4j6S32raumrAXmPxQ2DsKcSfHrWRut5%22%2C%22org%22%3A%22mediar-ai%22%2C%22prId%22%3A1683%2C%22repo%22%3A%22screenpipe%22%7D).
+
+",NEGATIVE,0.9972113966941833
+1683,Add: Client screenshot to server,"how do i test with my own server?
+
+like with domain name and password stuff ",NEGATIVE,0.9985203146934509
+1683,Add: Client screenshot to server,"You need to enable FTP on the server. You can enable it from `Turn Windows Features on and off` on the Windows server.
+![image](https://github.com/user-attachments/assets/3ebfb0a1-f2d9-46db-af3b-49ddc16e487a)
+
+After that, you can start and check FTP services from powershell as administrator using this command on the Windows Server
+![image](https://github.com/user-attachments/assets/cd9467d4-48ab-4fb9-8e77-c873b271165b)
+
+Don't forget to allow user for using FTP from Internet Information Service (IIS)
+![image](https://github.com/user-attachments/assets/43fbc694-dc6b-4cea-b374-6f02ad7525ae)
+
+After all are ready, we can go to the next step for sending screenshot to the Windows Server. This is provided example from my devices.
+![image](https://github.com/user-attachments/assets/6e30d35a-a8de-435a-ad2d-3bd51409c760)
+
+This is provided binary for test the program
+[Program.zip](https://github.com/user-attachments/files/19473173/Program.zip)
+",NEGATIVE,0.9793749451637268
+1683,Add: Client screenshot to server,"Hi @louis030195, is there any specific constraint that you encounter with? If so, may i help you to with it? I'm just doing follow up and need to know my PR progress after more than 3 days.",NEGATIVE,0.9968870282173157
+1683,Add: Client screenshot to server,can you share environment i can test this? like VMs and stuff,NEGATIVE,0.9406667947769165
+1683,Add: Client screenshot to server,"Ok, we can test it using DriveHQ. Can I send credentials via your Discord DM?",NEGATIVE,0.9948200583457947
+1683,Add: Client screenshot to server,@louis030195 i've already sent it to your discord DM for testing stuff. Please check it soon.,POSITIVE,0.9643312692642212
+1683,Add: Client screenshot to server,@louis030195 had you test it? Just checking my PR progress if there is any problem there.,NEGATIVE,0.9966334700584412
+1683,Add: Client screenshot to server,"@louis030195 It's already been a weeks. Does this solution approved?
+If this solution not acceptable, please tell me why it's not approved. ",NEGATIVE,0.9993860721588135
+1683,Add: Client screenshot to server,@louis030195 ?,NEGATIVE,0.9761518836021423
+1683,Add: Client screenshot to server,"> @louis030195 ?
+
+there is still no answer from the author.",NEGATIVE,0.9996358156204224
+1683,Add: Client screenshot to server,"work is too low quality, wasting my time ",NEGATIVE,0.9997830986976624
+1681,Compute use nextjs,"[vc]: #+iH115x/EPyrXekqVMhk+5QdKZKx5efCREhpgey46Ao=:eyJpc01vbm9yZXBvIjp0cnVlLCJ0eXBlIjoiZ2l0aHViIiwicHJvamVjdHMiOlt7Im5hbWUiOiJzY3JlZW5waXBlIiwibGl2ZUZlZWRiYWNrIjp7InJlc29sdmVkIjowLCJ1bnJlc29sdmVkIjowLCJ0b3RhbCI6MCwibGluayI6InNjcmVlbnBpcGUtZ2l0LWNvbXB1dGUtdXNlLW5leHRqcy1sb3VpczAzMDE5NXMtcHJvamVjdHMudmVyY2VsLmFwcCJ9LCJpbnNwZWN0b3JVcmwiOiJodHRwczovL3ZlcmNlbC5jb20vbG91aXMwMzAxOTVzLXByb2plY3RzL3NjcmVlbnBpcGUvQ3g3S2QyR1lSbTVYaGdXa25rQUNyRFdOaVdqMyIsInByZXZpZXdVcmwiOiJzY3JlZW5waXBlLWdpdC1jb21wdXRlLXVzZS1uZXh0anMtbG91aXMwMzAxOTVzLXByb2plY3RzLnZlcmNlbC5hcHAiLCJuZXh0Q29tbWl0U3RhdHVzIjoiREVQTE9ZRUQiLCJyb290RGlyZWN0b3J5IjoiY29udGVudC9kb2NzIn1dfQ==
+**The latest updates on your projects**. Learn more about [Vercel for Git ↗︎](https://vercel.link/github-learn-more)
+
+| Name | Status | Preview | Comments | Updated (UTC) |
+| :--- | :----- | :------ | :------- | :------ |
+| **screenpipe** | ✅ Ready ([Inspect](https://vercel.com/louis030195s-projects/screenpipe/Cx7Kd2GYRm5XhgWknkACrDWNiWj3)) | [Visit Preview](https://screenpipe-git-compute-use-nextjs-louis030195s-projects.vercel.app) | 💬 [**Add feedback**](https://vercel.live/open-feedback/screenpipe-git-compute-use-nextjs-louis030195s-projects.vercel.app?via=pr-comment-feedback-link) | Mar 26, 2025 2:19am |
+
+",NEGATIVE,0.9873238801956177
+1681,Compute use nextjs,"
+## 🧪 testing bounty created!
+
+a testing bounty has been created for this PR: [view testing issue](https://github.com/mediar-ai/screenpipe/issues/1682)
+
+testers will be awarded $20 each for providing quality test reports. please check the issue for testing requirements.
+",NEGATIVE,0.9954277276992798
+1678,Control computer,"[vc]: #Fz99IcRdEHg8nx7+P8RHxLndCPIVEh2yIhg5OfG5/RA=:eyJpc01vbm9yZXBvIjp0cnVlLCJ0eXBlIjoiZ2l0aHViIiwicHJvamVjdHMiOlt7Im5hbWUiOiJzY3JlZW5waXBlIiwiaW5zcGVjdG9yVXJsIjoiaHR0cHM6Ly92ZXJjZWwuY29tL2xvdWlzMDMwMTk1cy1wcm9qZWN0cy9zY3JlZW5waXBlL0dTQW05dFpEYjdIaGhacjRjdU5xa2UxamZkbXUiLCJwcmV2aWV3VXJsIjoic2NyZWVucGlwZS1naXQtY29udHJvbC1jb21wdXRlci1sb3VpczAzMDE5NXMtcHJvamVjdHMudmVyY2VsLmFwcCIsIm5leHRDb21taXRTdGF0dXMiOiJERVBMT1lFRCIsImxpdmVGZWVkYmFjayI6eyJyZXNvbHZlZCI6MCwidW5yZXNvbHZlZCI6MCwidG90YWwiOjAsImxpbmsiOiJzY3JlZW5waXBlLWdpdC1jb250cm9sLWNvbXB1dGVyLWxvdWlzMDMwMTk1cy1wcm9qZWN0cy52ZXJjZWwuYXBwIn0sInJvb3REaXJlY3RvcnkiOiJjb250ZW50L2RvY3MifV19
+**The latest updates on your projects**. Learn more about [Vercel for Git ↗︎](https://vercel.link/github-learn-more)
+
+| Name | Status | Preview | Comments | Updated (UTC) |
+| :--- | :----- | :------ | :------- | :------ |
+| **screenpipe** | ✅ Ready ([Inspect](https://vercel.com/louis030195s-projects/screenpipe/GSAm9tZDb7HhhZr4cuNqke1jfdmu)) | [Visit Preview](https://screenpipe-git-control-computer-louis030195s-projects.vercel.app) | 💬 [**Add feedback**](https://vercel.live/open-feedback/screenpipe-git-control-computer-louis030195s-projects.vercel.app?via=pr-comment-feedback-link) | Mar 25, 2025 5:11pm |
+
+",NEGATIVE,0.9918773174285889
+1678,Control computer,"
+## 🧪 testing bounty created!
+
+a testing bounty has been created for this PR: [view testing issue](https://github.com/mediar-ai/screenpipe/issues/1679)
+
+testers will be awarded $20 each for providing quality test reports. please check the issue for testing requirements.
+",NEGATIVE,0.9956252574920654
+1675,fix: improve benchmarks and handle platform-specific code,"@divanshu-go is attempting to deploy a commit to the **louis030195's projects** Team on [Vercel](https://vercel.com).
+
+A member of the Team first needs to [authorize it](https://vercel.com/git/authorize?team=louis030195's%20projects&type=github&job=%7B%22headInfo%22%3A%7B%22sha%22%3A%222dfbc04eb04cb5831290735a4a21ba6ef41bf33b%22%7D%2C%22id%22%3A%22Qmd7LHTPhjJZAJuU3vpp9whyPdvRewK29nURUYVZCmiZiR%22%2C%22org%22%3A%22mediar-ai%22%2C%22prId%22%3A1675%2C%22repo%22%3A%22screenpipe%22%7D).
+
+",NEGATIVE,0.9975919723510742
+1675,fix: improve benchmarks and handle platform-specific code,"
+## 🧪 testing bounty created!
+
+a testing bounty has been created for this PR: [view testing issue](https://github.com/mediar-ai/screenpipe/issues/1676)
+
+testers will be awarded $20 each for providing quality test reports. please check the issue for testing requirements.
+",NEGATIVE,0.9948796033859253
+1675,fix: improve benchmarks and handle platform-specific code,"Hey @louis030195, this issue was preventing cargo clippy, fmt, udeps, and several other commands from running on non-macOS hardware.",NEGATIVE,0.9980940222740173
+1675,fix: improve benchmarks and handle platform-specific code,thx,POSITIVE,0.5395302772521973
+1672,hackathon ,"@m13v is attempting to deploy a commit to the **louis030195's projects** Team on [Vercel](https://vercel.com).
+
+A member of the Team first needs to [authorize it](https://vercel.com/git/authorize?team=louis030195's%20projects&type=github&job=%7B%22headInfo%22%3A%7B%22sha%22%3A%2251238ae4ec4d73fe8d781538bdf0e52f62302d0c%22%7D%2C%22id%22%3A%22QmUKLrjuQgK2FXEz7tY2VgRJWZwDo2vbXxtNr2Hdd86uHh%22%2C%22org%22%3A%22mediar-ai%22%2C%22prId%22%3A1672%2C%22repo%22%3A%22screenpipe%22%7D).
+
+",NEGATIVE,0.997992753982544
+1672,hackathon ,"
+## 🧪 testing bounty created!
+
+a testing bounty has been created for this PR: [view testing issue](https://github.com/mediar-ai/screenpipe/issues/1673)
+
+testers will be awarded $20 each for providing quality test reports. please check the issue for testing requirements.
+",NEGATIVE,0.9948430061340332
+1670,Fix app settings resetting,"Someone is attempting to deploy a commit to the **louis030195's projects** Team on [Vercel](https://vercel.com).
+
+A member of the Team first needs to [authorize it](https://vercel.com/git/authorize?team=louis030195's%20projects&type=github&job=%7B%22headInfo%22%3A%7B%22sha%22%3A%22c57cf095a206b1c31a6545ee09f9b40f2d45ac91%22%7D%2C%22id%22%3A%22QmTSunw6s69GJK1ixphEHzw9KvgCVGHWXJxg1YfL45x9cg%22%2C%22org%22%3A%22mediar-ai%22%2C%22prId%22%3A1670%2C%22repo%22%3A%22screenpipe%22%7D).
+
+",NEGATIVE,0.997174859046936
+1670,Fix app settings resetting,"
+## 🧪 testing bounty created!
+
+a testing bounty has been created for this PR: [view testing issue](https://github.com/mediar-ai/screenpipe/issues/1671)
+
+testers will be awarded $20 each for providing quality test reports. please check the issue for testing requirements.
+",NEGATIVE,0.9948430061340332
+1670,Fix app settings resetting,how do you reproduce currently?,NEGATIVE,0.9928996562957764
+1670,Fix app settings resetting,"it's hard to reproduce.
+
+closing this pr. this is doesn't fix the issue",NEGATIVE,0.9997979998588562
+1668,Update the build from source instructions to include xcode. ,"@tristansokol is attempting to deploy a commit to the **louis030195's projects** Team on [Vercel](https://vercel.com).
+
+A member of the Team first needs to [authorize it](https://vercel.com/git/authorize?team=louis030195's%20projects&type=github&job=%7B%22headInfo%22%3A%7B%22sha%22%3A%221ca5574f1eeba0344a7c83edd313bf41ec3780dd%22%7D%2C%22id%22%3A%22Qma6xXFPsTSmqT6BftGpEPjWiqtGHc5xYksHSXLY4SCLcc%22%2C%22org%22%3A%22mediar-ai%22%2C%22prId%22%3A1668%2C%22repo%22%3A%22screenpipe%22%7D).
+
+",NEGATIVE,0.9977715015411377
+1668,Update the build from source instructions to include xcode. ,"
+## 🧪 testing bounty created!
+
+a testing bounty has been created for this PR: [view testing issue](https://github.com/mediar-ai/screenpipe/issues/1669)
+
+testers will be awarded $20 each for providing quality test reports. please check the issue for testing requirements.
+",NEGATIVE,0.9949268102645874
+1668,Update the build from source instructions to include xcode. ,thx,POSITIVE,0.5395302772521973
+1665,Commit Cargo.lock for workspace,"@FliegendeWurst is attempting to deploy a commit to the **louis030195's projects** Team on [Vercel](https://vercel.com).
+
+A member of the Team first needs to [authorize it](https://vercel.com/git/authorize?team=louis030195's%20projects&type=github&job=%7B%22headInfo%22%3A%7B%22sha%22%3A%22417ec9a67126cafe3b692c7abfd7f9fa88014d5e%22%7D%2C%22id%22%3A%22QmTnhJtcBWSzJncxoV2vCQy4tnurM9HvjvcoZjctNeeYwZ%22%2C%22org%22%3A%22mediar-ai%22%2C%22prId%22%3A1665%2C%22repo%22%3A%22screenpipe%22%7D).
+
+",NEGATIVE,0.9982489347457886
+1665,Commit Cargo.lock for workspace,"
+## 🧪 testing bounty created!
+
+a testing bounty has been created for this PR: [view testing issue](https://github.com/mediar-ai/screenpipe/issues/1666)
+
+testers will be awarded $20 each for providing quality test reports. please check the issue for testing requirements.
+",NEGATIVE,0.9955607652664185
+1665,Commit Cargo.lock for workspace,thx,POSITIVE,0.5395302772521973
+1663,"docs: fix grammar in ""Where is the data stored?"" section","@defiberrys is attempting to deploy a commit to the **louis030195's projects** Team on [Vercel](https://vercel.com).
+
+A member of the Team first needs to [authorize it](https://vercel.com/git/authorize?team=louis030195's%20projects&type=github&job=%7B%22headInfo%22%3A%7B%22sha%22%3A%22309281be8097af3b18e64fba6a80bf65f452abc0%22%7D%2C%22id%22%3A%22QmehFgS6WpGF9myQHNXqW4rxo5SKbA1CfMo3WwNpX6hfp8%22%2C%22org%22%3A%22mediar-ai%22%2C%22prId%22%3A1663%2C%22repo%22%3A%22screenpipe%22%7D).
+
+",NEGATIVE,0.9980966448783875
+1663,"docs: fix grammar in ""Where is the data stored?"" section","
+## 🧪 testing bounty created!
+
+a testing bounty has been created for this PR: [view testing issue](https://github.com/mediar-ai/screenpipe/issues/1664)
+
+testers will be awarded $20 each for providing quality test reports. please check the issue for testing requirements.
+",NEGATIVE,0.995665967464447
+1663,"docs: fix grammar in ""Where is the data stored?"" section",thx,POSITIVE,0.5395302772521973
+1661,Fix openai model not showing,"Someone is attempting to deploy a commit to the **louis030195's projects** Team on [Vercel](https://vercel.com).
+
+A member of the Team first needs to [authorize it](https://vercel.com/git/authorize?team=louis030195's%20projects&type=github&job=%7B%22headInfo%22%3A%7B%22sha%22%3A%2205eb316bf29160456e0f58ab211af0d46df61e4e%22%7D%2C%22id%22%3A%22Qmdr1EZTjqqEczEccYMj2V3Pgdk4qKpJVxDL7udAqDQXNk%22%2C%22org%22%3A%22mediar-ai%22%2C%22prId%22%3A1661%2C%22repo%22%3A%22screenpipe%22%7D).
+
+",NEGATIVE,0.9972466230392456
+1661,Fix openai model not showing,"
+## 🧪 testing bounty created!
+
+a testing bounty has been created for this PR: [view testing issue](https://github.com/mediar-ai/screenpipe/issues/1662)
+
+testers will be awarded $20 each for providing quality test reports. please check the issue for testing requirements.
+",NEGATIVE,0.9956114888191223
+1661,Fix openai model not showing,thx,POSITIVE,0.5395302772521973
+1659,fix: ai preset of screenpipe cloud not working in onboarding,"
+## 🧪 testing bounty created!
+
+a testing bounty has been created for this PR: [view testing issue](https://github.com/mediar-ai/screenpipe/issues/1660)
+
+testers will be awarded $20 each for providing quality test reports. please check the issue for testing requirements.
+",NEGATIVE,0.9953031539916992
+1659,fix: ai preset of screenpipe cloud not working in onboarding,"Someone is attempting to deploy a commit to the **louis030195's projects** Team on [Vercel](https://vercel.com).
+
+A member of the Team first needs to [authorize it](https://vercel.com/git/authorize?team=louis030195's%20projects&type=github&job=%7B%22headInfo%22%3A%7B%22sha%22%3A%225a69f7aa4135207a976cb09210080ac59529e375%22%7D%2C%22id%22%3A%22QmaQUVG1o7X25VYXA3b3ukmMpySWxmCxB6LZgcQ6xcTH3T%22%2C%22org%22%3A%22mediar-ai%22%2C%22prId%22%3A1659%2C%22repo%22%3A%22screenpipe%22%7D).
+
+",NEGATIVE,0.9970434308052063
+1659,fix: ai preset of screenpipe cloud not working in onboarding,thx,POSITIVE,0.5395302772521973
+1655,"cargo {fmt, clippy, udeps}","@divanshu-go is attempting to deploy a commit to the **louis030195's projects** Team on [Vercel](https://vercel.com).
+
+A member of the Team first needs to [authorize it](https://vercel.com/git/authorize?team=louis030195's%20projects&type=github&job=%7B%22headInfo%22%3A%7B%22sha%22%3A%223a1dc4957c3094299fa1541d8966347577dae38f%22%7D%2C%22id%22%3A%22QmQU6Au9hCpbRq4H3uK2bkMHr26im7U9ySW3r9PW75KtTH%22%2C%22org%22%3A%22mediar-ai%22%2C%22prId%22%3A1655%2C%22repo%22%3A%22screenpipe%22%7D).
+
+",NEGATIVE,0.997614860534668
+1655,"cargo {fmt, clippy, udeps}","
+## 🧪 testing bounty created!
+
+a testing bounty has been created for this PR: [view testing issue](https://github.com/mediar-ai/screenpipe/issues/1656)
+
+testers will be awarded $20 each for providing quality test reports. please check the issue for testing requirements.
+",NEGATIVE,0.9956504702568054
+1655,"cargo {fmt, clippy, udeps}","hey! thanks for the contribution. would you mind adding more details about: - what problem you're trying to solve - why this change is needed - any relevant context or screenshots
+this helps us review and merge faster! 🚀
+",POSITIVE,0.9973158240318298
+1655,"cargo {fmt, clippy, udeps}",please share some comments about PR,POSITIVE,0.9904327392578125
+1655,"cargo {fmt, clippy, udeps}","@m13v earlier the following commands were not able to run due to some configuration errors
+I fixed that and now we are able to run 
+`cargo clippy`
+`cargo fmt`
+`cargo udeps` and many more",NEGATIVE,0.9982967972755432
+1655,"cargo {fmt, clippy, udeps}",not a priority rn and too long to read,NEGATIVE,0.9994184970855713
+1653,feat: download ffmpeg,"Someone is attempting to deploy a commit to the **louis030195's projects** Team on [Vercel](https://vercel.com).
+
+A member of the Team first needs to [authorize it](https://vercel.com/git/authorize?team=louis030195's%20projects&type=github&job=%7B%22headInfo%22%3A%7B%22sha%22%3A%221493c8d2d6395087b966d38f2c1a6209f0cf880e%22%7D%2C%22id%22%3A%22QmNbqpwpwrb3ZQHCS8fe9rt21SriWBuvFPCbnaeQGgLaq1%22%2C%22org%22%3A%22mediar-ai%22%2C%22prId%22%3A1653%2C%22repo%22%3A%22screenpipe%22%7D).
+
+",NEGATIVE,0.9972454309463501
+1653,feat: download ffmpeg,"
+## 🧪 testing bounty created!
+
+a testing bounty has been created for this PR: [view testing issue](https://github.com/mediar-ai/screenpipe/issues/1654)
+
+testers will be awarded $20 each for providing quality test reports. please check the issue for testing requirements.
+",NEGATIVE,0.9955195188522339
+1653,feat: download ffmpeg,Testing this on macos @louis030195 ,NEGATIVE,0.9775323867797852
+1651,fix: app_name window_name fetch from frame instead of ocr_text,"@divanshu-go is attempting to deploy a commit to the **louis030195's projects** Team on [Vercel](https://vercel.com).
+
+A member of the Team first needs to [authorize it](https://vercel.com/git/authorize?team=louis030195's%20projects&type=github&job=%7B%22headInfo%22%3A%7B%22sha%22%3A%228313bf24acd8acba80cd1bba4005cb000a9c5fb4%22%7D%2C%22id%22%3A%22QmbfzWscC5AjqM6CdR6KfVZsCdJ2SbSi1TLP5ypFQBkG3V%22%2C%22org%22%3A%22mediar-ai%22%2C%22prId%22%3A1651%2C%22repo%22%3A%22screenpipe%22%7D).
+
+",NEGATIVE,0.9979026317596436
+1651,fix: app_name window_name fetch from frame instead of ocr_text,"
+## 🧪 testing bounty created!
+
+a testing bounty has been created for this PR: [view testing issue](https://github.com/mediar-ai/screenpipe/issues/1652)
+
+testers will be awarded $20 each for providing quality test reports. please check the issue for testing requirements.
+",NEGATIVE,0.9956839084625244
+1651,fix: app_name window_name fetch from frame instead of ocr_text,"/tip $30 @divanshu-go 
+
+amazing ",POSITIVE,0.9987561702728271
+1651,fix: app_name window_name fetch from frame instead of ocr_text,"🎉🎈 @divanshu-go has been awarded **$30**! 🎈🎊
+
+- [Share on socials](https://console.algora.io/awards/cm8ndk75q000ek103k6a6cg7g)
+- [Give feedback](https://console.algora.io/claims/cm8ndk75q000ek103k6a6cg7g)",NEGATIVE,0.8243623375892639
+1647,feat: bring mcp server to lime-light,"@divanshu-go is attempting to deploy a commit to the **louis030195's projects** Team on [Vercel](https://vercel.com).
+
+A member of the Team first needs to [authorize it](https://vercel.com/git/authorize?team=louis030195's%20projects&type=github&job=%7B%22headInfo%22%3A%7B%22sha%22%3A%220b2c71054032a9ca4cd003838fb4b0ae58d8991d%22%7D%2C%22id%22%3A%22QmScTxRoWaqGPFuBK2PF4Mb1Pxyyq4uHtxHENZ8p54d3Ds%22%2C%22org%22%3A%22mediar-ai%22%2C%22prId%22%3A1647%2C%22repo%22%3A%22screenpipe%22%7D).
+
+",NEGATIVE,0.9978454113006592
+1647,feat: bring mcp server to lime-light,"
+## 🧪 testing bounty created!
+
+a testing bounty has been created for this PR: [view testing issue](https://github.com/mediar-ai/screenpipe/issues/1648)
+
+testers will be awarded $20 each for providing quality test reports. please check the issue for testing requirements.
+",NEGATIVE,0.9954659938812256
+1647,feat: bring mcp server to lime-light,"this is cool
+
+what if user does not have `uv`, `python` etc.
+
+does it work on all OSes?
+
+also is screenpipe MCP actually useful and used? (most important 1️⃣)
+
+
+
+",NEGATIVE,0.9791740775108337
+1647,feat: bring mcp server to lime-light,"@louis030195 
+1. Screenpipe's MCP server works and is very usable as the supported clients I added are always eager to first query the
+to the MCP server and then start writing their responses
+
+2. I tested it on Windows atm   
+
+you can test on mac 
+it surely works",POSITIVE,0.9970754384994507
+1647,feat: bring mcp server to lime-light,@louis030195 Both Python and `uv` needs to installed on the system,NEGATIVE,0.9955692887306213
+1647,feat: bring mcp server to lime-light,"@louis030195 done 
+added info about prerequisites
+
+![image](https://github.com/user-attachments/assets/9c2ba2e8-5987-4ba1-a4e4-58d5cd5c70d6)
+
+
+",NEGATIVE,0.9556275010108948
+1647,feat: bring mcp server to lime-light,"/tip $50 @divanshu-go 
+
+nice!",POSITIVE,0.9950658082962036
+1647,feat: bring mcp server to lime-light,"🎉🎈 @divanshu-go has been awarded **$50**! 🎈🎊
+
+- [Share on socials](https://console.algora.io/awards/cm8orfb9o0004l203s52uhhuz)
+- [Give feedback](https://console.algora.io/claims/cm8orfb9o0004l203s52uhhuz)",NEGATIVE,0.7557606101036072
+1647,feat: bring mcp server to lime-light,"@divanshu-go any idea how to use screenpipe context in cursor chat? that would be great i think cursor support mcp
+
+also prob the prompting / function call need to be improved (fails query sometimes, should probably retry different param when it fials or idk)",NEGATIVE,0.9989731311798096
+1645,Add ai preset to pipes,"
+## 🧪 testing bounty created!
+
+a testing bounty has been created for this PR: [view testing issue](https://github.com/mediar-ai/screenpipe/issues/1646)
+
+testers will be awarded $20 each for providing quality test reports. please check the issue for testing requirements.
+",NEGATIVE,0.9955242872238159
+1645,Add ai preset to pipes,"Someone is attempting to deploy a commit to the **louis030195's projects** Team on [Vercel](https://vercel.com).
+
+A member of the Team first needs to [authorize it](https://vercel.com/git/authorize?team=louis030195's%20projects&type=github&job=%7B%22headInfo%22%3A%7B%22sha%22%3A%225ce92720ac44a817e8ae513eab6fe7d10c24460f%22%7D%2C%22id%22%3A%22QmdPuYDhnEQuBEx6UoBZzYen8xmYPfuPMhgV6vfd74uJ1T%22%2C%22org%22%3A%22mediar-ai%22%2C%22prId%22%3A1645%2C%22repo%22%3A%22screenpipe%22%7D).
+
+",NEGATIVE,0.996775209903717
+1645,Add ai preset to pipes,"great work 🚀
+
+can you solve conflict plz?",POSITIVE,0.99831223487854
+1645,Add ai preset to pipes,"<img width=""493"" alt=""image"" src=""https://github.com/user-attachments/assets/18daa415-dbb8-4636-949f-910f1e315d00"" />
+
+also we should still indicate the user he can links his note using the @[[note]] syntax like had before",NEGATIVE,0.9885678291320801
+1645,Add ai preset to pipes,"@louis030195 
+
+done.",NEGATIVE,0.9445627331733704
+1645,Add ai preset to pipes,"great work
+
+
+/tip $100 @shaik-zeeshan ",POSITIVE,0.9995654225349426
+1645,Add ai preset to pipes,"🎉🎈 @shaik-zeeshan has been awarded **$100**! 🎈🎊
+
+- [Share on socials](https://console.algora.io/awards/cm8ngosah000gjx032et22hiw)
+- [Give feedback](https://console.algora.io/claims/cm8ngosah000gjx032et22hiw)",NEGATIVE,0.7488291263580322
+1643,[linux] bundle tesseract and ffmpeg,"@divanshu-go is attempting to deploy a commit to the **louis030195's projects** Team on [Vercel](https://vercel.com).
+
+A member of the Team first needs to [authorize it](https://vercel.com/git/authorize?team=louis030195's%20projects&type=github&job=%7B%22headInfo%22%3A%7B%22sha%22%3A%220de69a054313c6be7c8657aea783ff142ff5486b%22%7D%2C%22id%22%3A%22QmW4s43wxBZpjeYaGUUybtPeANjNNVhjvzcYmTeyE3sgyD%22%2C%22org%22%3A%22mediar-ai%22%2C%22prId%22%3A1643%2C%22repo%22%3A%22screenpipe%22%7D).
+
+",NEGATIVE,0.9976623058319092
+1643,[linux] bundle tesseract and ffmpeg,"hey! thanks for the contribution. would you mind adding more details about: - what problem you're trying to solve - why this change is needed - any relevant context or screenshots
+this helps us review and merge faster! 🚀
+",POSITIVE,0.9973158240318298
+1643,[linux] bundle tesseract and ffmpeg,"
+## 🧪 testing bounty created!
+
+a testing bounty has been created for this PR: [view testing issue](https://github.com/mediar-ai/screenpipe/issues/1644)
+
+testers will be awarded $20 each for providing quality test reports. please check the issue for testing requirements.
+",NEGATIVE,0.9956567287445068
+1643,[linux] bundle tesseract and ffmpeg,@louis030195 are there any further changes required on this PR ?,NEGATIVE,0.9988623857498169
+1641,fix: ship with ffmpeg,"Someone is attempting to deploy a commit to the **louis030195's projects** Team on [Vercel](https://vercel.com).
+
+A member of the Team first needs to [authorize it](https://vercel.com/git/authorize?team=louis030195's%20projects&type=github&job=%7B%22headInfo%22%3A%7B%22sha%22%3A%2228f29ec4b21ccdcd710eb106fb926a9d12d554ff%22%7D%2C%22id%22%3A%22Qmad5TS1WypzU3iQXjH2zV5vDyfHf1EfT5Gw8737y6CKrb%22%2C%22org%22%3A%22mediar-ai%22%2C%22prId%22%3A1641%2C%22repo%22%3A%22screenpipe%22%7D).
+
+",NEGATIVE,0.9970918893814087
+1641,fix: ship with ffmpeg,"
+## 🧪 testing bounty created!
+
+a testing bounty has been created for this PR: [view testing issue](https://github.com/mediar-ai/screenpipe/issues/1642)
+
+testers will be awarded $20 each for providing quality test reports. please check the issue for testing requirements.
+",NEGATIVE,0.9957138299942017
+1641,fix: ship with ffmpeg,"used as resource, according to this
+
+https://github.com/mediar-ai/screenpipe/blob/c43219fe44913e06b3e51040b7f8adfb4c796778/screenpipe-core/src/ffmpeg.rs#L83
+
+@louis030195 
+
+& at windows ffmpeg is already being shipped",NEGATIVE,0.9971315860748291
+1641,fix: ship with ffmpeg,"@louis030195 
+
+https://master.dl.sourceforge.net/project/avbuild/macOS/ffmpeg-7.0-macOS-default.tar.xz?viasf=1
+
+the default macos version of ffmpeg causing this broken pipe error
+
+![image](https://github.com/user-attachments/assets/8271b925-f701-44b6-860c-167e21988510)
+
+i think we should ship ffmpeg same as the sidecar does",NEGATIVE,0.9996715784072876
+1641,fix: ship with ffmpeg,"that version of ffmpeg doesn't supports `-preset` args 
+
+```bash
+ bin  ffmpeg -i input.mp4 -vcodec libx264 -preset fast output.mp4
+ffmpeg version 786d4af-avbuild Copyright (c) 2000-2024 the FFmpeg developers
+  built with Apple clang version 16.0.0 (clang-1600.0.26.3)
+  configuration: --extra-version=avbuild --disable-doc --disable-debug --enable-shared --enable-runtime-cpudetect --disable-vulkan --enable-libxml2 --disable-libxcb --disable-xlib --disable-postproc --enable-cross-compile --arch=a
+rm64 --target-os=darwin --install_name_dir='@rpath' --cc=clang --enable-pic --extra-cflags='-I=/usr/include/libxml2 -arch arm64 -mmacosx-version-min=11.0' --extra-ldflags='-arch arm64 -mmacosx-version-min=11.0 -Wl,-dead_strip -Wl,
+-rpath,@loader_path -Wl,-rpath,@executable_path/../Frameworks -Wl,-rpath,@loader_path/Libraries -Wl,-rpath,@loader_path/../lib'
+  libavutil      59.  8.100 / 59.  8.100
+  libavcodec     61.  3.100 / 61.  3.100
+  libavformat    61.  1.100 / 61.  1.100
+  libavdevice    61.  1.100 / 61.  1.100
+  libavfilter    10.  1.100 / 10.  1.100
+  libswscale      8.  1.100 /  8.  1.100
+  libswresample   5.  1.100 /  5.  1.100
+Unrecognized option 'preset'.
+```
+",NEGATIVE,0.9994612336158752
+1641,fix: ship with ffmpeg,"@tribhuwan-kumar 
+
+https://github.com/nathanbabcock/ffmpeg-sidecar/blob/main/src/download.rs#L31
+
+I tested the https://www.osxexperts.net/ffmpeg7arm.zip
+ // Mac M1
+ 
+ it has support for -preset
+ 
+ https://www.osxexperts.net/
+ 
+ 
+ //Intel Macs
+ 
+ --> ffmpeg ==> https://www.osxexperts.net/ffmpeg71intel.zip
+ --> ffprobe ==> https://www.osxexperts.net/ffprobe71intel.zip
+ 
+ 
+ // Silicon Macs
+ 
+ --> ffmpeg ==> https://www.osxexperts.net/ffmpeg71arm.zip
+--> ffprobe ==> https://www.osxexperts.net/ffprobe71arm.zip
+ 
+ ",NEGATIVE,0.9940593242645264
+1641,fix: ship with ffmpeg,"@louis030195 here is the PR for Linux #1643 
+",NEGATIVE,0.9962504506111145
+1641,fix: ship with ffmpeg,"yes, i did same as the ffmpeg-sidecar does",NEGATIVE,0.9755669832229614
+1641,fix: ship with ffmpeg,can someone test on blank macos vm the app build and make sure screenpipe works and use this ffmpeg ,NEGATIVE,0.9988170862197876
+1641,fix: ship with ffmpeg,"> screenpipe works and use this ffmpeg 
+
+ffmpeg is same as the sidecar's ffmpeg, just need to ensure about ffprobe",NEGATIVE,0.9869701862335205
+1641,fix: ship with ffmpeg,"> can someone test on blank macos vm the app build and make sure screenpipe works and use this ffmpeg
+
+still
+
+won't merge until i have screen recording on a blank vm which shows it works ",NEGATIVE,0.9975057244300842
+1641,fix: ship with ffmpeg,"> > can someone test on blank macos vm the app build and make sure screenpipe works and use this ffmpeg
+> 
+> still
+> 
+> won't merge until i have screen recording on a blank vm which shows it works
+
+@kumarvivek1752 
+
+could you test it on mac vm? 
+make sure you don't have any ffmpeg installed from prior",NEGATIVE,0.9987670183181763
+1641,fix: ship with ffmpeg,"
+> @kumarvivek1752 
+> 
+> could you test it on mac vm? 
+> make sure you don't have any ffmpeg installed from prior
+
+
+sure..
+",NEGATIVE,0.9970368146896362
+1641,fix: ship with ffmpeg,"also i'd appreciate merging this today / tomorrow before hackathon 
+
+happy to provide tips/bounties for any help ",NEGATIVE,0.958014726638794
+1641,fix: ship with ffmpeg,"> also i'd appreciate merging this today / tomorrow before hackathon
+> 
+> happy to provide tips/bounties for any help
+
+i've tested a build on my machine, lets see what @kumarvivek1752 says!",POSITIVE,0.9974371194839478
+1641,fix: ship with ffmpeg,"@tribhuwan-kumar @louis030195 
+I tested your pr on mac `15.3.2` and it worked as expected 
+behaviour I observed :
+- If the ffmpeg binary is not downloaded on external bin then it will download and copy to screenpipe environment.
+- If it is present, then it will copy to screenpipe environment.
+
+screencast of my testing:
+
+https://github.com/user-attachments/assets/d300dcc7-7b11-4038-9c4f-57b2dce58a0c
+
+after building `ffmpeg` and screen recording is working but the app keeps spaming me to add permission, although I allowed it. but this issue is not related to this pr. I'll create a separate issue for this
+
+",NEGATIVE,0.9961141347885132
+1641,fix: ship with ffmpeg,"@kumarvivek1752 
+
+did you check the ffprobe? is there any error `--debug` related to it??",NEGATIVE,0.9986822009086609
+1641,fix: ship with ffmpeg,"@tribhuwan-kumar 
+yes found no issues 
+
+added to all `ffprobe command` in `screenpipe-server/src/video_utils.rs` 
+```
+  let output = Command::new(&ffprobe_path)
+        .args([
+            ""-v"",
+            ""quiet"",
+            ""-print_format"",
+            ""json"",
+            ""-select_streams"",
+            ""v:0"", // Select first video stream
+            ""-show_entries"",
+            ""stream=r_frame_rate"", // Only request frame rate information
+            ""--debug"",
+            video_path,
+        ])
+        .output()
+        .await?;
+```
+
+logs:
+```
+2025-03-28T10:48:02.676474Z  INFO screenpipe_audio::transcription::handle_new_transcript: device External Microphone (input) received transcription Some("" But it's not the police who can't do it."")
+2025-03-28T10:48:02.677446Z  INFO screenpipe_audio::transcription::transcription_result: Detected speaker: Speaker { id: 1, name: """", metadata: """" }
+2025-03-28T10:48:02.677500Z  INFO screenpipe_audio::transcription::transcription_result: device External Microphone (input) inserting audio chunk: ""/Users/vivek/.screenpipe/data/External Microphone (input)_2025-03-28_05-17-44.mp4""
+2025-03-28T10:48:07.536422Z  INFO screenpipe_server::video: Finishing FFmpeg process for monitor 2 after 30 frames
+2025-03-28T10:48:11.202558Z  INFO screenpipe_server::video: Starting new video chunk: /Users/vivek/.screenpipe/data/monitor_2_2025-03-28_05-18-11.mp4 for monitor 2
+2025-03-28T10:48:11.202620Z  INFO screenpipe_server::video: Starting FFmpeg process for file: /Users/vivek/.screenpipe/data/monitor_2_2025-03-28_05-18-11.mp4
+2025-03-28T10:48:11.216057Z  INFO screenpipe_server::video: New FFmpeg process started for file: /Users/vivek/.screenpipe/data/monitor_2_2025-03-28_05-18-11.mp4 (monitor 2)
+2025-03-28T10:48:11.216595Z  INFO screenpipe_server::video: Video stats for monitor 2: processed 31 frames in 1 chunks over 761s (0.04 avg fps)
+2025-03-28T10:48:18.722171Z  INFO screenpipe_server::resource_monitor: Runtime: 1122s, Memory: 14% (2.24 GB / 16.00 GB), Virtual: 395.49 GB, CPU: 196%
+2025-03-28T10:48:20.454319Z  INFO screenpipe_audio::transcription::handle_new_transcript: device External Microphone (input) received transcription Some("" -"")
+2025-03-28T10:48:20.454470Z  INFO screenpipe_audio::audio_manager::manager: Received audio from device: ""External Microphone""
+2025-03-28T10:48:20.455277Z  INFO screenpipe_audio::transcription::transcription_result: Detected speaker: Speaker { id: 2, name: """", metadata: """" }
+2025-03-28T10:48:20.455303Z  INFO screenpipe_audio::transcription::transcription_result: device External Microphone (input) inserting audio chunk: ""/Users/vivek/.screenpipe/data/External Microphone (input)_2025-03-28_05-17-44.mp4""
+2025-03-28T10:48:20.564394Z  INFO screenpipe_audio::speaker::prepare_segments: device: External Microphone (input), speech ratio: 0, min_speech_ratio: 0.05, audio_frames: 512042, speech_frames: 0
+2025-03-28T10:48:20.564788Z  INFO screenpipe_audio::audio_manager::manager: Received audio from device: ""Display 2""
+2025-03-28T10:48:20.674063Z  INFO screenpipe_audio::speaker::prepare_segments: device: Display 2 (output), speech ratio: 0, min_speech_ratio: 0.05, audio_frames: 511956, speech_frames: 0
+2025-03-28T10:48:28.117773Z  INFO screenpipe_audio::audio_manager::device_monitor: Device Display 2 (output) disconnected
+2025-03-28T10:48:28.117833Z  INFO screenpipe_audio::device::device_manager: Stopping device: Display 2 (output)
+2025-03-28T10:48:29.935000Z  INFO screenpipe_server::video: Queue stats for monitor 2: processed 35 frames in 780.2s (0.04 fps), queue sizes: video=0/30, ocr=0/30
+2025-03-28T10:48:30.398609Z  INFO screenpipe_audio::device::device_manager: starting recording for device: Display 2 (output)
+2025-03-28T10:48:30.506744Z  INFO screenpipe_audio::core::run_record_and_transcribe: starting continuous recording for Display 2 (output) (30s segments)
+
+
+```",NEGATIVE,0.9885536432266235
+1641,fix: ship with ffmpeg,cc: @louis030195 ,NEGATIVE,0.8062442541122437
+1641,fix: ship with ffmpeg,"the test was supposed to be:
+- get a build somehow of this PR (app)
+- new vm raw with the .dmg
+- install .dmg
+- run app
+- it uses the ffmpeg packaged in the files (and is not installing through ffmpeg sidecar)
+- recording into mp4 works 
+- endpoint and stuff that uses ffmpeg work (use cmd shift f to search ffmpeg)",NEGATIVE,0.9992857575416565
+1641,fix: ship with ffmpeg,"> the test was supposed to be:
+> - get a build somehow of this PR (app)
+> - new vm raw with the .dmg
+> - install .dmg
+> - run app
+> - it uses the ffmpeg packaged in the files (and is not installing through ffmpeg sidecar)
+> - recording into mp4 works 
+> - endpoint and stuff that uses ffmpeg work (use cmd shift f to search ffmpeg)
+
+
+I'm testing it myself!!
+
+",NEGATIVE,0.9985507130622864
+1641,fix: ship with ffmpeg,"@louis030195 
+
+https://drive.google.com/drive/folders/1aSuiD34ImC6xbfz2J1J7NIB0hZW_kPZP?usp=sharing
+
+this drive folder includes the .dmg build and a demonstration video 
+& i properly ensure that it uses the packaged ffmpeg from the .dmg build.",NEGATIVE,0.9828552007675171
+1641,fix: ship with ffmpeg,"> > the test was supposed to be:
+> > 
+> > * get a build somehow of this PR (app)
+> > * new vm raw with the .dmg
+> > * install .dmg
+> > * run app
+> > * it uses the ffmpeg packaged in the files (and is not installing through ffmpeg sidecar)
+> > * recording into mp4 works
+> > * endpoint and stuff that uses ffmpeg work (use cmd shift f to search ffmpeg)
+
+just doing this now myself:
+
+~~- [ ] get a build somehow of this PR (app)~~
+@tribhuwan-kumar somehow the screenpipe desktop app I'm downloading from your google drive complains that the application is corrupt when I try to move it to /Applications. I've changed networks, rebooted and tried todwnoading I different environments (vm) ... I guess I'll try to build it myself.
+
+
+- [ ] new vm raw with the .dmg
+- [ ] install .dmg
+- [ ] run app
+- [ ] it uses the ffmpeg packaged in the files (and is not installing through ffmpeg sidecar)
+- [ ] recording into mp4 works
+- [ ] endpoint and stuff that uses ffmpeg work (use cmd shift f to search ffmpeg)",NEGATIVE,0.9982927441596985
+1641,fix: ship with ffmpeg,"> somehow the screenpipe desktop app I'm downloading from your google drive complains that the application is corrupt
+
+I think the apple requires some license. that's why that dmg complaints about being corrupt. try building yourself it'll not take too much time",NEGATIVE,0.9993526339530945
+1641,fix: ship with ffmpeg,"> @louis030195
+> 
+> https://drive.google.com/drive/folders/1aSuiD34ImC6xbfz2J1J7NIB0hZW_kPZP?usp=sharing
+> 
+> this drive folder includes the .dmg build and a demonstration video & i properly ensure that it uses the packaged ffmpeg from the .dmg build.
+
+is that a clean, fresh VM?",NEGATIVE,0.9110949635505676
+1641,fix: ship with ffmpeg,"> > @louis030195
+> > 
+> > https://drive.google.com/drive/folders/1aSuiD34ImC6xbfz2J1J7NIB0hZW_kPZP?usp=sharing
+> > 
+> > this drive folder includes the .dmg build and a demonstration video & i properly ensure that it uses the packaged ffmpeg from the .dmg build.
+> 
+> is that a clean, fresh VM?
+
+no,
+
+but there is no ffmpeg installed in that machine ",NEGATIVE,0.9873595833778381
+1641,fix: ship with ffmpeg,"screenpipe throws an error in the logs as it still seems to try to fetch ffmpeg, but 
+
+I can confirm that the fresh vm without ffmpeg does indeed capture video. I'll upload a video in a moment. 
+
+[https://youtu.be/7W-tN1FX06k](Youtube)
+",NEGATIVE,0.9972399473190308
+1641,fix: ship with ffmpeg,"> screenpipe throws an error in the logs as it still seems to try to fetch ffmpeg
+
+
+what's the error?? can you share log?",NEGATIVE,0.9996241331100464
+1641,fix: ship with ffmpeg,"Of course! both logs are attached, but `screenpipe.2025-03-30.log` is the one you're looking for. 
+
+[screenpipe-app.2025-03-30.log](https://github.com/user-attachments/files/19528038/screenpipe-app.2025-03-30.log)
+[screenpipe.2025-03-30.log](https://github.com/user-attachments/files/19528039/screenpipe.2025-03-30.log)
+
+Also, an important note...  went back into the vm and did a ""which ffmpeg"" again, still nothing on PATH.. but figured I should maybe double check to see if there is a binary in `~/.local/bin/` like I've seen previously.
+
+indeed there is an ffmpeg (that's been downloaded?) there...
+
+It should be be bundled into the screenpipe binary as of this pr, right? 
+
+Do you also have a standalone ffmpeg binary in `~/.local/bin/` as well?
+
+
+",NEGATIVE,0.9984444975852966
+1641,fix: ship with ffmpeg,"> Also, an important note... went back into the vm and did a ""which ffmpeg, but figured I should maybe double check to see if if there was a binary in `~/.local/bin/`and indeed there is an ffmpeg (that's been downloaded?) there....
+
+the ffmpeg you're seeing in `~/.local/bin` is downloaded by ffmpeg sidecar, which isn't supposed to do.
+please ensure you've correctly build by merging this pr
+
+```bash
+git remote add upstream git@github.com:mediar-ai/screenpipe.git             #assuming you've ssh setup
+git fetch upstream
+git fetch upstream pull/1641/head:test-1641                                 #fetch this pr
+git checkout test-1641                                                      #checkout the pr branch
+git merge upstream/main                                                     #merge it with latest screenpipe
+```
+
+the other way you can ensure is your local branch should include the change of this pr
+
+@lessuselesss ",NEGATIVE,0.9972960352897644
+1636,setup tests for Tauri app,"[vc]: #YxnFGWKRPHRWib4tZpH55xLT9REs/zmHZzDl44NYNKk=:eyJpc01vbm9yZXBvIjp0cnVlLCJ0eXBlIjoiZ2l0aHViIiwicHJvamVjdHMiOlt7Im5hbWUiOiJzY3JlZW5waXBlIiwibGl2ZUZlZWRiYWNrIjp7InJlc29sdmVkIjowLCJ1bnJlc29sdmVkIjowLCJ0b3RhbCI6MCwibGluayI6InNjcmVlbnBpcGUtZ2l0LXVpLXRlc3RzLWxvdWlzMDMwMTk1cy1wcm9qZWN0cy52ZXJjZWwuYXBwIn0sImluc3BlY3RvclVybCI6Imh0dHBzOi8vdmVyY2VsLmNvbS9sb3VpczAzMDE5NXMtcHJvamVjdHMvc2NyZWVucGlwZS81anBrZHNablQxM01rdTk5S3ljaENTSmRxQzN4IiwicHJldmlld1VybCI6InNjcmVlbnBpcGUtZ2l0LXVpLXRlc3RzLWxvdWlzMDMwMTk1cy1wcm9qZWN0cy52ZXJjZWwuYXBwIiwibmV4dENvbW1pdFN0YXR1cyI6IkRFUExPWUVEIn1dfQ==
+**The latest updates on your projects**. Learn more about [Vercel for Git ↗︎](https://vercel.link/github-learn-more)
+
+| Name | Status | Preview | Comments | Updated (UTC) |
+| :--- | :----- | :------ | :------- | :------ |
+| **screenpipe** | ✅ Ready ([Inspect](https://vercel.com/louis030195s-projects/screenpipe/5jpkdsZnT13Mku99KychCSJdqC3x)) | [Visit Preview](https://screenpipe-git-ui-tests-louis030195s-projects.vercel.app) | 💬 [**Add feedback**](https://vercel.live/open-feedback/screenpipe-git-ui-tests-louis030195s-projects.vercel.app?via=pr-comment-feedback-link) | Mar 17, 2025 11:26pm |
+
+",NEGATIVE,0.9934432506561279
+1634,feat: make disconnected devices list live duration of program,"@EzraEllette is attempting to deploy a commit to the **louis030195's projects** Team on [Vercel](https://vercel.com).
+
+A member of the Team first needs to [authorize it](https://vercel.com/git/authorize?team=louis030195's%20projects&type=github&job=%7B%22headInfo%22%3A%7B%22sha%22%3A%22864f099db8dab7676a8a3be3577da6ac084ca56a%22%7D%2C%22id%22%3A%22QmeoSPhYV6JcwfNoCjBVosofXTezCySMfrMutRUSvpd285%22%2C%22org%22%3A%22mediar-ai%22%2C%22prId%22%3A1634%2C%22repo%22%3A%22screenpipe%22%7D).
+
+",NEGATIVE,0.9979338645935059
+1634,feat: make disconnected devices list live duration of program,"
+## 🧪 testing bounty created!
+
+a testing bounty has been created for this PR: [view testing issue](https://github.com/mediar-ai/screenpipe/issues/1635)
+
+testers will be awarded $20 each for providing quality test reports. please check the issue for testing requirements.
+",NEGATIVE,0.9953552484512329
+1634,feat: make disconnected devices list live duration of program,i'd prefer having a way to reproduce first ,NEGATIVE,0.9283384084701538
+1634,feat: make disconnected devices list live duration of program,"reproduce by putting the computer to sleep. wait like 5 minutes or so then open the computer again
+
+this didn't fix the issue",NEGATIVE,0.9996885061264038
+1629,test,"[vc]: #28/8b7xyjqPOJN1jIkhaMY7YW8TQGEYweSUTqNthZMk=:eyJpc01vbm9yZXBvIjp0cnVlLCJ0eXBlIjoiZ2l0aHViIiwicHJvamVjdHMiOlt7Im5hbWUiOiJzY3JlZW5waXBlIiwicm9vdERpcmVjdG9yeSI6ImNvbnRlbnQvZG9jcyIsImluc3BlY3RvclVybCI6Imh0dHBzOi8vdmVyY2VsLmNvbS9sb3VpczAzMDE5NXMtcHJvamVjdHMvc2NyZWVucGlwZS8zR3FEaFpGOUR2NVRFY0p6Z2VERzhUaU01YVBBIiwicHJldmlld1VybCI6IiIsIm5leHRDb21taXRTdGF0dXMiOiJGQUlMRUQiLCJsaXZlRmVlZGJhY2siOnsicmVzb2x2ZWQiOjAsInVucmVzb2x2ZWQiOjAsInRvdGFsIjowLCJsaW5rIjoiIn19XX0=
+**The latest updates on your projects**. Learn more about [Vercel for Git ↗︎](https://vercel.link/github-learn-more)
+
+| Name | Status | Preview | Comments | Updated (UTC) |
+| :--- | :----- | :------ | :------- | :------ |
+| **screenpipe** | ❌ Failed ([Inspect](https://vercel.com/louis030195s-projects/screenpipe/3GqDhZF9Dv5TEcJzgeDG8TiM5aPA)) |  |  | Mar 17, 2025 4:14pm |
+
+",NEGATIVE,0.5745312571525574
+1629,test,"
+## 🧪 testing bounty created!
+
+a testing bounty has been created for this PR: [view testing issue](https://github.com/mediar-ai/screenpipe/issues/1632)
+
+testers will be awarded $20 each for providing quality test reports. please check the issue for testing requirements.
+",NEGATIVE,0.995292067527771
+1629,test,"
+## 🧪 testing bounty created!
+
+a testing bounty has been created for this PR: [view testing issue](https://github.com/mediar-ai/screenpipe/issues/1633)
+
+testers will be awarded $20 each for providing quality test reports. please check the issue for testing requirements.
+",NEGATIVE,0.994778037071228
+1625,custom port for mcp server,"@divanshu-go is attempting to deploy a commit to the **louis030195's projects** Team on [Vercel](https://vercel.com).
+
+A member of the Team first needs to [authorize it](https://vercel.com/git/authorize?team=louis030195's%20projects&type=github&job=%7B%22headInfo%22%3A%7B%22sha%22%3A%2211e579d513c5b7713d8d7b9e99c8fa71b7123cde%22%7D%2C%22id%22%3A%22QmYjNSeonFgrhKQs6y1XX8o5kg9JWpvJpf1t9nFyL3MEmj%22%2C%22org%22%3A%22mediar-ai%22%2C%22prId%22%3A1625%2C%22repo%22%3A%22screenpipe%22%7D).
+
+",NEGATIVE,0.9977965354919434
+1624,fix: disk usage,"Someone is attempting to deploy a commit to the **louis030195's projects** Team on [Vercel](https://vercel.com).
+
+A member of the Team first needs to [authorize it](https://vercel.com/git/authorize?team=louis030195's%20projects&type=github&job=%7B%22headInfo%22%3A%7B%22sha%22%3A%226bd0d2f7677f210ddca912ccf8bd1035977a3016%22%7D%2C%22id%22%3A%22QmctmWy5UN6FBztApZd9NFN9kQCoQzBwbwbDLW9fBAusNG%22%2C%22org%22%3A%22mediar-ai%22%2C%22prId%22%3A1624%2C%22repo%22%3A%22screenpipe%22%7D).
+
+",NEGATIVE,0.9972284436225891
+1623,restore: confitmation dialog of resetting pipe,"Someone is attempting to deploy a commit to the **louis030195's projects** Team on [Vercel](https://vercel.com).
+
+A member of the Team first needs to [authorize it](https://vercel.com/git/authorize?team=louis030195's%20projects&type=github&job=%7B%22headInfo%22%3A%7B%22sha%22%3A%229270f7dd7faf4b629f73d606a209eb37cf36faab%22%7D%2C%22id%22%3A%22QmS8MmsCfbsEVPUXN3EzQSrzLffzVfr6ec6xkGNKxR4uy5%22%2C%22org%22%3A%22mediar-ai%22%2C%22prId%22%3A1623%2C%22repo%22%3A%22screenpipe%22%7D).
+
+",NEGATIVE,0.9971151351928711
+1623,restore: confitmation dialog of resetting pipe,"/tip $20 @tribhuwan-kumar 
+
+thanks",POSITIVE,0.9984555244445801
+1623,restore: confitmation dialog of resetting pipe,"🎉🎈 @tribhuwan-kumar has been awarded **$20**! 🎈🎊
+
+- [Share on socials](https://console.algora.io/awards/cm8d7uuth0006jr03c2d1h2c1)
+- [Give feedback](https://console.algora.io/claims/cm8d7uuth0006jr03c2d1h2c1)",NEGATIVE,0.5268601775169373
+1622,fix: screenpipe cli not working on windows 10 11,"@divanshu-go is attempting to deploy a commit to the **louis030195's projects** Team on [Vercel](https://vercel.com).
+
+A member of the Team first needs to [authorize it](https://vercel.com/git/authorize?team=louis030195's%20projects&type=github&job=%7B%22headInfo%22%3A%7B%22sha%22%3A%222dcf9bf3be55b8f4b7216506bd95520c2e0a5254%22%7D%2C%22id%22%3A%22QmNhi5B3tPkTBbsPBxwWzwagGBeMbSFDccTQ5rfwhkL6Ug%22%2C%22org%22%3A%22mediar-ai%22%2C%22prId%22%3A1622%2C%22repo%22%3A%22screenpipe%22%7D).
+
+",NEGATIVE,0.997763991355896
+1622,fix: screenpipe cli not working on windows 10 11,"@louis030195 
+
+# Before
+
+![image](https://github.com/user-attachments/assets/7a981f28-406e-498e-a0a4-d6683588761d)
+
+
+
+# After
+![image](https://github.com/user-attachments/assets/3a6f0a1c-db12-47fa-944f-052f5eabf7c6)
+
+",NEGATIVE,0.9969393014907837
+1622,fix: screenpipe cli not working on windows 10 11,"@louis030195 this also solves the problems which you earlier mention
+https://github.com/mediar-ai/screenpipe/issues/1034 https://github.com/mediar-ai/screenpipe/issues/794 https://github.com/mediar-ai/screenpipe/issues/943
+
+",NEGATIVE,0.9130068421363831
+1622,fix: screenpipe cli not working on windows 10 11,"```
+
+C:\Users\divan\Downloads\screenpipe-0.2.65-x86_64-pc-windows-msvc\bin>dumpbin /DEPENDENTS screenpipe.exe
+Microsoft (R) COFF/PE Dumper Version 14.43.34809.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+Dump of file screenpipe.exe
+
+File Type: EXECUTABLE IMAGE
+
+  Image has the following dependencies:
+
+    KERNEL32.DLL
+    OLE32.DLL
+    SHELL32.DLL
+    kernel32.dll
+    oleaut32.dll
+    api-ms-win-core-synch-l1-2-0.dll
+    bcryptprimitives.dll
+    ntdll.dll
+    user32.dll
+    psapi.dll
+    version.dll
+    gdi32.dll
+    dwmapi.dll
+    api-ms-win-core-winrt-l1-1-0.dll
+    ole32.dll
+    ws2_32.dll
+    bcrypt.dll
+    advapi32.dll
+    crypt32.dll
+    secur32.dll
+    propsys.dll
+    shell32.dll
+    iphlpapi.dll
+    netapi32.dll
+    pdh.dll
+    powrprof.dll
+    onnxruntime.dll
+
+
+```",NEGATIVE,0.998875081539154
+1622,fix: screenpipe cli not working on windows 10 11,https://crates.io/crates/ort#shared-library-hell,NEGATIVE,0.9989885687828064
+1622,fix: screenpipe cli not working on windows 10 11,"C:\Users\divan\OneDrive\Pictures\bundle>dumpbin /DEPENDENTS onnxruntime.dll
+Microsoft (R) COFF/PE Dumper Version 14.43.34809.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+Dump of file onnxruntime.dll
+
+File Type: DLL
+
+  Image has the following dependencies:
+
+    KERNEL32.dll
+    MSVCP140.dll
+    VCRUNTIME140.dll
+    VCRUNTIME140_1.dll
+    api-ms-win-crt-runtime-l1-1-0.dll
+    api-ms-win-crt-stdio-l1-1-0.dll
+    api-ms-win-crt-convert-l1-1-0.dll
+    api-ms-win-crt-string-l1-1-0.dll
+    api-ms-win-crt-math-l1-1-0.dll
+    api-ms-win-crt-heap-l1-1-0.dll
+    api-ms-win-crt-filesystem-l1-1-0.dll
+    ADVAPI32.dll
+    MSVCP140_1.dll
+    api-ms-win-crt-time-l1-1-0.dll
+    api-ms-win-crt-locale-l1-1-0.dll
+    api-ms-win-core-path-l1-1-0.dll
+    dbghelp.dll
+
+  Image has the following delay load dependencies:
+
+    DirectML.dll
+    d3d12.dll
+    dxgi.dll
+    dxcore.dll
+",NEGATIVE,0.9985578656196594
+1622,fix: screenpipe cli not working on windows 10 11," nice!
+
+what's with 
+
+https://github.com/mediar-ai/screenpipe/blob/22ff009cbc54c1cfe3312c1728e20c0cb44d318b/screenpipe-app-tauri/src-tauri/tauri.windows.conf.json#L22
+
+https://github.com/mediar-ai/screenpipe/blob/22ff009cbc54c1cfe3312c1728e20c0cb44d318b/screenpipe-server/build.rs
+
+https://github.com/mediar-ai/screenpipe/blob/main/screenpipe-server/build.rs
+
+https://github.com/mediar-ai/screenpipe/blob/22ff009cbc54c1cfe3312c1728e20c0cb44d318b/screenpipe-audio/build.rs#L81
+
+im a bit confused 
+
+can we just download the DLL thing in build.rs of CLI and place it in well known dir of windows like /usr/lib equivalent of unix?
+
+so it would work both for app and cli and less code to maintain / spaghetti infra everywhere
+
+
+",NEGATIVE,0.9936918020248413
+1622,fix: screenpipe cli not working on windows 10 11,"@louis030195 the desktop just bundles everything --> its fine and work
+
+the problem starts when user dont install the desktop 
+
+user installs screenpipe on his windows using install.ps1 
+the scripts add the bin to PATH
+
+this PR solves this problem of user having only installed the CLI 
+cause earlier CLI didnt package the onnxruntime.dll
+which was not present in almost all windows 10 and even in some win11 it was too old",NEGATIVE,0.9981130361557007
+1622,fix: screenpipe cli not working on windows 10 11,"the ort crate itself suggest this solution of packaging that DLL with it 
+https://crates.io/crates/ort#shared-library-hell",NEGATIVE,0.9991289973258972
+1622,fix: screenpipe cli not working on windows 10 11,/tip $80 @divanshu-go ,NEGATIVE,0.9741315245628357
+1622,fix: screenpipe cli not working on windows 10 11,"🎉🎈 @divanshu-go has been awarded **$80**! 🎈🎊
+
+- [Share on socials](https://console.algora.io/awards/cm8d9hjfc0006jj03x2kz0p98)
+- [Give feedback](https://console.algora.io/claims/cm8d9hjfc0006jj03x2kz0p98)",NEGATIVE,0.644209623336792
+1622,fix: screenpipe cli not working on windows 10 11,"
+
+<img width=""662"" alt=""image"" src=""https://github.com/user-attachments/assets/7abaa16b-a3df-48e7-af19-cc7f0ed97c40"" />
+
+
+
+@divanshu-go ",NEGATIVE,0.9906108975410461
+1621,fix: native look on windows,"Someone is attempting to deploy a commit to the **louis030195's projects** Team on [Vercel](https://vercel.com).
+
+A member of the Team first needs to [authorize it](https://vercel.com/git/authorize?team=louis030195's%20projects&type=github&job=%7B%22headInfo%22%3A%7B%22sha%22%3A%229de51890b7802a321bc466516721f9487f4c4679%22%7D%2C%22id%22%3A%22QmaSkLrLPCTQe2qgRm8q2tUnHwb3nRuU2oGbHCsjJqju4K%22%2C%22org%22%3A%22mediar-ai%22%2C%22prId%22%3A1621%2C%22repo%22%3A%22screenpipe%22%7D).
+
+",NEGATIVE,0.997334897518158
+1621,fix: native look on windows,"@louis030195 
+
+do you mind if we disable the right click? we can use keyboard shortcut to open console!!",NEGATIVE,0.9836819767951965
+1621,fix: native look on windows,"nice
+
+yeah i think we could remove right click but sometimes there are issue which required reload (esp in dev mode) and idk the shortcut to reload (cmd r does not seem to work)",NEGATIVE,0.9992161989212036
+1621,fix: native look on windows,"> nice
+> 
+> yeah i think we could remove right click but sometimes there are issue which required reload (esp in dev mode) and idk the shortcut to reload (cmd r does not seem to work)
+
+what about removing right click in production?
+
+or maybe we could implement something else later?",NEGATIVE,0.9983918070793152
+1616,fix: `test-linux` now work on github codespaces,"@divanshu-go is attempting to deploy a commit to the **louis030195's projects** Team on [Vercel](https://vercel.com).
+
+A member of the Team first needs to [authorize it](https://vercel.com/git/authorize?team=louis030195's%20projects&type=github&job=%7B%22headInfo%22%3A%7B%22sha%22%3A%22316b7e49ea6c4a4a9f5cfe4866e644a4f732bb73%22%7D%2C%22id%22%3A%22QmdtiLzun673tzwmRYkXM7meJdd3YEXFLD9cLsUTmAzZNE%22%2C%22org%22%3A%22mediar-ai%22%2C%22prId%22%3A1616%2C%22repo%22%3A%22screenpipe%22%7D).
+
+",NEGATIVE,0.997734785079956
+1616,fix: `test-linux` now work on github codespaces,"hey! thanks for the contribution. would you mind adding more details about: - what problem you're trying to solve - why this change is needed - any relevant context or screenshots
+this helps us review and merge faster! 🚀
+",POSITIVE,0.9973158240318298
+1615,also capture windows having no pid,"@divanshu-go is attempting to deploy a commit to the **louis030195's projects** Team on [Vercel](https://vercel.com).
+
+A member of the Team first needs to [authorize it](https://vercel.com/git/authorize?team=louis030195's%20projects&type=github&job=%7B%22headInfo%22%3A%7B%22sha%22%3A%22f27f0335f70470b7b81e1c6e20fda26a54bf4ed0%22%7D%2C%22id%22%3A%22QmeJ3aFRtsFZW3hqb6YgUHHfwnqR4VwjA5A1P6q3WPgBot%22%2C%22org%22%3A%22mediar-ai%22%2C%22prId%22%3A1615%2C%22repo%22%3A%22screenpipe%22%7D).
+
+",NEGATIVE,0.997651994228363
+1614,fix: search filter generator not working,"Someone is attempting to deploy a commit to the **louis030195's projects** Team on [Vercel](https://vercel.com).
+
+A member of the Team first needs to [authorize it](https://vercel.com/git/authorize?team=louis030195's%20projects&type=github&job=%7B%22headInfo%22%3A%7B%22sha%22%3A%22291f350b41c134b5c103106b1a7791309a6605ff%22%7D%2C%22id%22%3A%22QmQj3NUCeUxar4PQircPrQjmdxNx5vKqjcHNs4KaCdYE5s%22%2C%22org%22%3A%22mediar-ai%22%2C%22prId%22%3A1614%2C%22repo%22%3A%22screenpipe%22%7D).
+
+",NEGATIVE,0.997150719165802
+1614,fix: search filter generator not working,"hey! thanks for the contribution. would you mind adding more details about: - what problem you're trying to solve - why this change is needed - any relevant context or screenshots
+this helps us review and merge faster! 🚀
+",POSITIVE,0.9973158240318298
+1614,fix: search filter generator not working,"/tip $50 @shaik-zeeshan 
+
+thx!",NEGATIVE,0.9480207562446594
+1614,fix: search filter generator not working,"🎉🎈 @shaik-zeeshan has been awarded **$50**! 🎈🎊
+
+- [Share on socials](https://console.algora.io/awards/cm8a8gdci0006ld03f2e383iw)
+- [Give feedback](https://console.algora.io/claims/cm8a8gdci0006ld03f2e383iw)",POSITIVE,0.5185489654541016
+1613,feat: tray icon for light and dark mode,"@divanshu-go is attempting to deploy a commit to the **louis030195's projects** Team on [Vercel](https://vercel.com).
+
+A member of the Team first needs to [authorize it](https://vercel.com/git/authorize?team=louis030195's%20projects&type=github&job=%7B%22headInfo%22%3A%7B%22sha%22%3A%2249e57e46fd158db274d678a671383c6da950f3cf%22%7D%2C%22id%22%3A%22QmY6Ma4gmZDUV2GSWqxSDGgkg9X9pHJ9evfmgqAEnpdCro%22%2C%22org%22%3A%22mediar-ai%22%2C%22prId%22%3A1613%2C%22repo%22%3A%22screenpipe%22%7D).
+
+",NEGATIVE,0.9978073239326477
+1613,feat: tray icon for light and dark mode,"/tip $50 @divanshu-go 
+
+nice!
+
+
+https://github.com/user-attachments/assets/460e6bd4-5880-4c24-ac51-70541817c504
+
+
+seems no difference on macos (whcih bar is always black background)
+
+
+",NEGATIVE,0.9986069798469543
+1613,feat: tray icon for light and dark mode,"🎉🎈 @divanshu-go has been awarded **$50**! 🎈🎊
+
+- [Share on socials](https://console.algora.io/awards/cm8a8qhxy0004l503cfvc659a)
+- [Give feedback](https://console.algora.io/claims/cm8a8qhxy0004l503cfvc659a)",NEGATIVE,0.7314469814300537
+1613,feat: tray icon for light and dark mode,"@louis030195 macos uses template images 
+
+https://developer.apple.com/documentation/appkit/nsimage/istemplate?language=objc",NEGATIVE,0.9955184459686279
+1613,feat: tray icon for light and dark mode,https://v2.tauri.app/reference/javascript/api/namespacetray/#seticonastemplate,NEGATIVE,0.9966854453086853
+1612,fix linux build,"@divanshu-go is attempting to deploy a commit to the **louis030195's projects** Team on [Vercel](https://vercel.com).
+
+A member of the Team first needs to [authorize it](https://vercel.com/git/authorize?team=louis030195's%20projects&type=github&job=%7B%22headInfo%22%3A%7B%22sha%22%3A%221c9167471cb1e6a42a31fa79eed804a9655f307a%22%7D%2C%22id%22%3A%22QmNc4MfQxg4xSG9WiANTQtMcx1XEL7noGDrdHdA6onjtBg%22%2C%22org%22%3A%22mediar-ai%22%2C%22prId%22%3A1612%2C%22repo%22%3A%22screenpipe%22%7D).
+
+",NEGATIVE,0.9976188540458679
+1612,fix linux build,"<img width=""1512"" alt=""Screenshot 2025-03-15 at 6 28 34 AM"" src=""https://github.com/user-attachments/assets/4d911f04-6736-4659-bc2f-8a819dfb1b57"" />
+
+https://github.com/mediar-ai/screenpipe/actions/runs/13864835116/job/38801536271
+
+",NEGATIVE,0.9942469596862793
+1612,fix linux build,thats whyn i did this ,NEGATIVE,0.9899516701698303
+1612,fix linux build,"Old logs also had these errors but it did completed the process of capturing that window but the new code doesn't share the same execution
+",NEGATIVE,0.9972639083862305
+1609,fix: search pipe ai not working,"Someone is attempting to deploy a commit to the **louis030195's projects** Team on [Vercel](https://vercel.com).
+
+A member of the Team first needs to [authorize it](https://vercel.com/git/authorize?team=louis030195's%20projects&type=github&job=%7B%22headInfo%22%3A%7B%22sha%22%3A%2208de6a4863a8528ac7fadcef6eb23e3bb66610af%22%7D%2C%22id%22%3A%22QmSBkeVDNNinKzsyLBNFUEHJYyqN452dqh64S7Soap5pw4%22%2C%22org%22%3A%22mediar-ai%22%2C%22prId%22%3A1609%2C%22repo%22%3A%22screenpipe%22%7D).
+
+",NEGATIVE,0.9973182082176208
+1609,fix: search pipe ai not working,"regarding ai preset, i noticed issues sometimes listing models from screenpipe cloud or openai, not sure it's still happening ",NEGATIVE,0.9992696642875671
+1609,fix: search pipe ai not working,"what kind of issues?
+
+models don't show up?
+models that show up are incorrect?",NEGATIVE,0.9995941519737244
+1604,fix pipe store issues,"Someone is attempting to deploy a commit to the **louis030195's projects** Team on [Vercel](https://vercel.com).
+
+A member of the Team first needs to [authorize it](https://vercel.com/git/authorize?team=louis030195's%20projects&type=github&job=%7B%22headInfo%22%3A%7B%22sha%22%3A%22bc56ce8e84ec5916b8bcfe65bf05dc8bfb30a7dd%22%7D%2C%22id%22%3A%22QmbdfpxvJLJ3qiNxFgULSmtSK5ytjaWwNeS6vHqGxYvS6A%22%2C%22org%22%3A%22mediar-ai%22%2C%22prId%22%3A1604%2C%22repo%22%3A%22screenpipe%22%7D).
+
+",NEGATIVE,0.9974850416183472
+1604,fix pipe store issues,thx,POSITIVE,0.5395302772521973
+1598,improve pipe update functionality and ux,"Someone is attempting to deploy a commit to the **louis030195's projects** Team on [Vercel](https://vercel.com).
+
+A member of the Team first needs to [authorize it](https://vercel.com/git/authorize?team=louis030195's%20projects&type=github&job=%7B%22headInfo%22%3A%7B%22sha%22%3A%22fe6da750ed8f5c5391b0006929b685ec58dbf6ae%22%7D%2C%22id%22%3A%22QmdibbSqdHQLtZxUSziss9kLr6d1xd3WchNdjVWnNmYbKn%22%2C%22org%22%3A%22mediar-ai%22%2C%22prId%22%3A1598%2C%22repo%22%3A%22screenpipe%22%7D).
+
+",NEGATIVE,0.9972507357597351
+1598,improve pipe update functionality and ux,@louis030195 fixed the bad merge,NEGATIVE,0.9984588623046875
+1598,improve pipe update functionality and ux,"whats the behaviour for side loaded pipes?
+
+for example i install pipe `foo` from `https://bar.com/foo`, and they push new code, would it download again?
+
+
+
+same for local, say i have `/tmp/foo` folder and say i change code or delete the folder, what happen? 
+
+
+
+",NEGATIVE,0.9995607733726501
+1598,improve pipe update functionality and ux,"> for example i install pipe `foo` from `https://bar.com/foo`, and they push new code, would it download again?
+> 
+> same for local, say i have `/tmp/foo` folder and say i change code or delete the folder, what happen?
+
+I don't think we are keeping track of changes in side loaded pipe to know if there is update for them. but you can manually update/refresh them in selected pipe dialog
+
+this just checks for the pipes in the store. not in side loaded pipes",NEGATIVE,0.9994267225265503
+1598,improve pipe update functionality and ux,make sense,POSITIVE,0.9996505975723267
+1598,improve pipe update functionality and ux,/approve,POSITIVE,0.9953932762145996
+1598,improve pipe update functionality and ux,Could not find a claim that corresponds to the PR. Please add the `/claim` snippet to the PR body first.,NEGATIVE,0.9995385408401489
+1598,improve pipe update functionality and ux,@louis030195 there is no bounty related to this issue,NEGATIVE,0.9980694651603699
+1598,improve pipe update functionality and ux,"/tip $100 @shaik-zeeshan 
+
+thanks
+
+
+btw i noticed search bar does not work anymore in pipe store :/ ",NEGATIVE,0.9982403516769409
+1598,improve pipe update functionality and ux,"🎉🎈 @shaik-zeeshan has been awarded **$100**! 🎈🎊
+
+- [Share on socials](https://console.algora.io/awards/cm891jase0002l503p8srptuv)
+- [Give feedback](https://console.algora.io/claims/cm891jase0002l503p8srptuv)",NEGATIVE,0.5217134952545166
+1598,improve pipe update functionality and ux,"<img width=""357"" alt=""image"" src=""https://github.com/user-attachments/assets/65695b22-d807-41fb-bbc7-e28a7d6b0f36"" />
+
+run forever",NEGATIVE,0.9956703186035156
+1598,improve pipe update functionality and ux,"<img width=""512"" alt=""image"" src=""https://github.com/user-attachments/assets/3739b323-9be8-4542-b9c8-eaf584028af3"" />
+
+i had to purge pipe recently ",NEGATIVE,0.9987261891365051
+1598,improve pipe update functionality and ux,maybe edge case no pipe has not been covered?,NEGATIVE,0.987118124961853
+1597,Add vcredist setup to CONTRIBUTING.md,"@divanshu-go is attempting to deploy a commit to the **louis030195's projects** Team on [Vercel](https://vercel.com).
+
+A member of the Team first needs to [authorize it](https://vercel.com/git/authorize?team=louis030195's%20projects&type=github&job=%7B%22headInfo%22%3A%7B%22sha%22%3A%222c0192ce17b6a4f0f3fbda7fc9455c91d85ba794%22%7D%2C%22id%22%3A%22QmYsNBcr39evLgbFNRzbt9tnHUBw4NRHqDL7WHpjoYDkQm%22%2C%22org%22%3A%22mediar-ai%22%2C%22prId%22%3A1597%2C%22repo%22%3A%22screenpipe%22%7D).
+
+",NEGATIVE,0.9976008534431458
+1597,Add vcredist setup to CONTRIBUTING.md,"hey! thanks for the contribution. would you mind adding more details about: - what problem you're trying to solve - why this change is needed - any relevant context or screenshots
+this helps us review and merge faster! 🚀
+",POSITIVE,0.9973158240318298
+1596,fix build And windows integration test,"@divanshu-go is attempting to deploy a commit to the **louis030195's projects** Team on [Vercel](https://vercel.com).
+
+A member of the Team first needs to [authorize it](https://vercel.com/git/authorize?team=louis030195's%20projects&type=github&job=%7B%22headInfo%22%3A%7B%22sha%22%3A%220bc2053766aa181ea363578babbea08542b2fa1d%22%7D%2C%22id%22%3A%22QmT9M7qeEhkhjbPtdT9N9jjRRPNtANvVnZMuPu4Bs8SGTw%22%2C%22org%22%3A%22mediar-ai%22%2C%22prId%22%3A1596%2C%22repo%22%3A%22screenpipe%22%7D).
+
+",NEGATIVE,0.9977013468742371
+1596,fix build And windows integration test,"hey! thanks for the contribution. would you mind adding more details about: - what problem you're trying to solve - why this change is needed - any relevant context or screenshots
+this helps us review and merge faster! 🚀
+",POSITIVE,0.9973158240318298
+1596,fix build And windows integration test,there was still issue after this with some deps ,NEGATIVE,0.9949236512184143
+1596,fix build And windows integration test,"```
+louisbeaumont@brainlouis030195com-mbp:~/Documents/screenpipe$ cargo build --features metal --release
+warning: patch for `hf-hub` uses the features mechanism. default-features and features will not take effect because the patch dependency does not support this mechanism
+    Updating git repository `https://github.com/huggingface/candle.git`
+    Updating crates.io index
+error: failed to select a version for `half`.
+    ... required by package `ort v2.0.0-rc.6`
+    ... which satisfies dependency `ort = ""=2.0.0-rc.6""` (locked to 2.0.0-rc.6) of package `screenpipe-audio v0.2.63 (/Users/louisbeaumont/Documents/screenpipe/screenpipe-audio)`
+    ... which satisfies path dependency `screenpipe-audio` (locked to 0.2.63) of package `screenpipe-server v0.2.63 (/Users/louisbeaumont/Documents/screenpipe/screenpipe-server)`
+versions that meet the requirements `^2.1` (locked to 2.4.1) are: 2.4.1
+
+all possible versions conflict with previously selected packages.
+
+  previously selected package `half v2.5.0`
+    ... which satisfies dependency `half = ""^2.5.0""` of package `candle-core v0.8.3 (https://github.com/huggingface/candle.git?rev=c930ab7e1a234f02a0f49350bf38f03f45e53757#c930ab7e)`
+    ... which satisfies git dependency `candle` of package `screenpipe-server v0.2.63 (/Users/louisbeaumont/Documents/screenpipe/screenpipe-server)`
+
+failed to select a version for `half` which could resolve this conflict
+```
+
+build succeed in CI/CD but fails local ",NEGATIVE,0.9997273087501526
+1596,fix build And windows integration test,"@louis030195 can you do cargo clean 
+and try doing a clean build after a git pull from main",NEGATIVE,0.9897582530975342
+1596,fix build And windows integration test,"<img width=""1512"" alt=""Screenshot 2025-03-14 at 11 09 34 AM"" src=""https://github.com/user-attachments/assets/83ad8669-8907-4cb4-ae7f-d779abb53c4d"" />
+",NEGATIVE,0.9918645620346069
+1595,Example pipe logs,"@m13v is attempting to deploy a commit to the **louis030195's projects** Team on [Vercel](https://vercel.com).
+
+A member of the Team first needs to [authorize it](https://vercel.com/git/authorize?team=louis030195's%20projects&type=github&job=%7B%22headInfo%22%3A%7B%22sha%22%3A%224efb1c57fe8095235accb4894400c4201994744d%22%7D%2C%22id%22%3A%22QmXL2GGnpVXSUH5BRYKTPPpbJ4NcaBNysCAkftdLCv8DAi%22%2C%22org%22%3A%22mediar-ai%22%2C%22prId%22%3A1595%2C%22repo%22%3A%22screenpipe%22%7D).
+
+",NEGATIVE,0.9979421496391296
+1592,make screenpipe run on Windows 10,"hey! thanks for the contribution. would you mind adding more details about: - what problem you're trying to solve - why this change is needed - any relevant context or screenshots
+this helps us review and merge faster! 🚀
+",POSITIVE,0.9973158240318298
+1592,make screenpipe run on Windows 10,"@divanshu-go is attempting to deploy a commit to the **louis030195's projects** Team on [Vercel](https://vercel.com).
+
+A member of the Team first needs to [authorize it](https://vercel.com/git/authorize?team=louis030195's%20projects&type=github&job=%7B%22headInfo%22%3A%7B%22sha%22%3A%2247c405df94ccf2e20628cec9350f8940bd32e683%22%7D%2C%22id%22%3A%22QmU6F8rnGkKqTmLCUuD3qS3vPPnXqXCZbho4vpsuSNfYEd%22%2C%22org%22%3A%22mediar-ai%22%2C%22prId%22%3A1592%2C%22repo%22%3A%22screenpipe%22%7D).
+
+",NEGATIVE,0.9976634979248047
+1592,make screenpipe run on Windows 10,"so u mean if we build from windows 11 it wont work on w10? and if built on 10 it will work on 11?
+
+what about this issue #1034 #794 #943 which is still not solved i believe
+
+cc @tribhuwan-kumar thoughts?",NEGATIVE,0.9991490840911865
+1592,make screenpipe run on Windows 10,"@louis030195 exactly
+the thing is github runners use Windows server 2022 (`windows-latest`) which is equivalent to insiders builds of window10
+while these build works perfectly on window 11 and insider builds of win10 
+
+they dont get to work on normal win10 and some win11
+
+therefore I chose windows-2019 which has a older build but work perfectly on win10 and win11 ",POSITIVE,0.6164869070053101
+1592,make screenpipe run on Windows 10,"our self hosted runner is windows 11 pro
+
+does the build will work on all machine then? ",NEGATIVE,0.9995655417442322
+1592,make screenpipe run on Windows 10,"building on window 10 or if we use `windows-2019` from github hosted runners
+then it would work on both window 10 and 11  (pro , home, etc)",NEGATIVE,0.9975844621658325
+1592,make screenpipe run on Windows 10,"okay
+
+then can you remove the self hosted part altogther (which will make this github action much easier to read) and just use github runner one ",NEGATIVE,0.9980873465538025
+1592,make screenpipe run on Windows 10,@louis030195 can you check if everything is alright !,POSITIVE,0.9927181005477905
+1592,make screenpipe run on Windows 10,"> so u mean if we build from windows 11 it wont work on w10? and if built on 10 it will work on 11?
+> 
+> what about this issue #1034 #794 #943 which is still not solved i believe
+> 
+> cc @tribhuwan-kumar thoughts?
+
+maybe building in windows 2019 won't cause too much different bugs, like these https://github.com/mediar-ai/screenpipe/issues/1034 https://github.com/mediar-ai/screenpipe/issues/794 https://github.com/mediar-ai/screenpipe/issues/943. also it'd be widely compatible
+",NEGATIVE,0.9532999992370605
+1592,make screenpipe run on Windows 10,"okay i'll try, feel like it's not going to work like this ",NEGATIVE,0.9997007846832275
+1591,make sure user know that ffmpeg is being downloaded and do not re-install bun,"@divanshu-go is attempting to deploy a commit to the **louis030195's projects** Team on [Vercel](https://vercel.com).
+
+A member of the Team first needs to [authorize it](https://vercel.com/git/authorize?team=louis030195's%20projects&type=github&job=%7B%22headInfo%22%3A%7B%22sha%22%3A%22d96d5861046637edc70d5cb7ed83d43bbfbea945%22%7D%2C%22id%22%3A%22QmYLCb6ceEkwenj5A11aUyt8ZhiajTEH6UFdBrFgcG6rMW%22%2C%22org%22%3A%22mediar-ai%22%2C%22prId%22%3A1591%2C%22repo%22%3A%22screenpipe%22%7D).
+
+",NEGATIVE,0.9976131916046143
+1591,make sure user know that ffmpeg is being downloaded and do not re-install bun,"it'd be better if there is an self uninstallation thing, maybe in script or in bin
+
+@louis030195 ",NEGATIVE,0.9994058609008789
+1591,make sure user know that ffmpeg is being downloaded and do not re-install bun,"@tribhuwan-kumar can you explain what are you saying
+is it related to this PR
+can you suggest changes",NEGATIVE,0.9602065086364746
+1591,make sure user know that ffmpeg is being downloaded and do not re-install bun,"```rust
+rustup self uninstall
+```
+something like this!
+its not related to this pr, we can implement it in another pr
+if @louis030195 wants to",NEGATIVE,0.9996238946914673
+1591,make sure user know that ffmpeg is being downloaded and do not re-install bun,"@tribhuwan-kumar then you should create a new issue or WIP PR for it 
+I will be happy to contribute !",POSITIVE,0.9996641874313354
+1591,make sure user know that ffmpeg is being downloaded and do not re-install bun,"btw ffmpeg should not be installed in powershell thing
+
+we install in rust already
+
+https://github.com/mediar-ai/screenpipe/blob/main/screenpipe-core/src/ffmpeg.rs",NEGATIVE,0.9995021820068359
+1591,make sure user know that ffmpeg is being downloaded and do not re-install bun,"@louis030195 the version that rust code would install the version the winget will install is same which is the `essentials release`
+
+the thing users would not wait until rust code use some internal process to install it 
+also you used debug logs at there when it installs ffmpeg using rust
+so users wont know it unless they pass --debug
+
+secondly the desktop app also run screenpipe at its backend thus it will try to install ffmpeg and will also take too much time
+
+neverthless its up to you ",NEGATIVE,0.9941046833992004
+1591,make sure user know that ffmpeg is being downloaded and do not re-install bun,"> @louis030195 the version that rust code would install the version the winget will install is same which is the `essentials release`
+> 
+> the thing users would not wait until rust code use some internal process to install it also you used debug logs at there when it installs ffmpeg using rust so users wont know it unless they pass --debug
+> 
+> secondly the desktop app also run screenpipe at its backend thus it will try to install ffmpeg and will also take too much time
+> 
+> neverthless its up to you
+
+yeah so i tihkn the rust ffmpeg install should display a progress bar or something 
+
+and in the UI like onboarding or when we run start_screenpipe we should check the log if there is some form of loading (eg downloading model, ffmpeg, migration, etc. it should parse properly and display a UX feedback on the UI like a progress bar, spinner, something, and maybe write a message like ""downloading model, ffmpeg whatever""",NEGATIVE,0.9976363182067871
+1591,make sure user know that ffmpeg is being downloaded and do not re-install bun,agree we need uninstall script in another PR ,NEGATIVE,0.9944440722465515
+1591,make sure user know that ffmpeg is being downloaded and do not re-install bun,"as for ffmpeg we initially packaged in the build but had tons of issues and ended up using ffmpeg sidecar which was more reliable
+
+if we have users having problem with ffmpeg runtime install we might change that ",NEGATIVE,0.9975041747093201
+1591,make sure user know that ffmpeg is being downloaded and do not re-install bun,"https://github.com/mediar-ai/screenpipe/commit/86efeae90fda2e8b3257967ab438188de086805b
+
+any chance someone can test this?
+
+eg
+
+
+1. uninstall ffmpeg
+2. run screenpipe through app without dev mode
+3. it should show toast indicating it's downloading ffmpeg 
+
+
+i cant test RN, i have to use ffmpeg for long delay for debugging something with screen issues 
+
+
+",NEGATIVE,0.9978287816047668
+1591,make sure user know that ffmpeg is being downloaded and do not re-install bun,"> https://github.com/mediar-ai/screenpipe/commit/86efeae90fda2e8b3257967ab438188de086805b
+> 
+> any chance someone can test this?
+> 
+> eg
+> 
+> 
+> 1. uninstall ffmpeg
+> 2. run screenpipe through app without dev mode
+> 3. it should show toast indicating it's downloading ffmpeg 
+> 
+> 
+> i cant test RN, i have to use ffmpeg for long delay for debugging something with screen issues 
+> 
+> 
+> 
+
+sure, testing it",NEGATIVE,0.9958125948905945
+1591,make sure user know that ffmpeg is being downloaded and do not re-install bun,"@louis030195 its not showing the toast related to downloading of ffmpeg
+
+in fact the server didn't startup while it was downloading fffmpeg
+
+![image](https://github.com/user-attachments/assets/bb1fc932-37b2-469e-80ce-60545d9bb999)
+",NEGATIVE,0.9983054399490356
+1591,make sure user know that ffmpeg is being downloaded and do not re-install bun,@m13v ,POSITIVE,0.6532119512557983
+1591,make sure user know that ffmpeg is being downloaded and do not re-install bun,@louis030195 should I debug it??,NEGATIVE,0.9981016516685486
+1588,rust fix,"@m13v is attempting to deploy a commit to the **louis030195's projects** Team on [Vercel](https://vercel.com).
+
+A member of the Team first needs to [authorize it](https://vercel.com/git/authorize?team=louis030195's%20projects&type=github&job=%7B%22headInfo%22%3A%7B%22sha%22%3A%223f46b30839894549f9e051f2f3bebd4552b68cb5%22%7D%2C%22id%22%3A%22QmeTGTdcfoEZUnuWqi1xYBqjaZj1t1hUijE1H7L1sPbE9s%22%2C%22org%22%3A%22mediar-ai%22%2C%22prId%22%3A1588%2C%22repo%22%3A%22screenpipe%22%7D).
+
+",NEGATIVE,0.9979991316795349
+1585,fix windows build,"hey! thanks for the contribution. would you mind adding more details about: - what problem you're trying to solve - why this change is needed - any relevant context or screenshots
+this helps us review and merge faster! 🚀
+",POSITIVE,0.9973158240318298
+1585,fix windows build,"@divanshu-go is attempting to deploy a commit to the **louis030195's projects** Team on [Vercel](https://vercel.com).
+
+A member of the Team first needs to [authorize it](https://vercel.com/git/authorize?team=louis030195's%20projects&type=github&job=%7B%22headInfo%22%3A%7B%22sha%22%3A%229cfe722542d5d31e7cfc6f415849c444e6873ae6%22%7D%2C%22id%22%3A%22QmVo8nUytmCvMquyFvGZv9cqP39E3UQECZkHkEDkKZdg3N%22%2C%22org%22%3A%22mediar-ai%22%2C%22prId%22%3A1585%2C%22repo%22%3A%22screenpipe%22%7D).
+
+",NEGATIVE,0.9976605176925659
+1584,fix linux build,"@divanshu-go is attempting to deploy a commit to the **louis030195's projects** Team on [Vercel](https://vercel.com).
+
+A member of the Team first needs to [authorize it](https://vercel.com/git/authorize?team=louis030195's%20projects&type=github&job=%7B%22headInfo%22%3A%7B%22sha%22%3A%223da5c4ef95710b7afbe1c1459afbc96e4312f8fb%22%7D%2C%22id%22%3A%22QmbuBfLzJasZihtsD94vipRooQosheazpsGZhBXFkpoo78%22%2C%22org%22%3A%22mediar-ai%22%2C%22prId%22%3A1584%2C%22repo%22%3A%22screenpipe%22%7D).
+
+",NEGATIVE,0.9977688789367676
+1584,fix linux build,@louis030195 can you merge it ASAP,POSITIVE,0.6535144448280334
+1581,add settings preset components to registry,"Someone is attempting to deploy a commit to the **louis030195's projects** Team on [Vercel](https://vercel.com).
+
+A member of the Team first needs to [authorize it](https://vercel.com/git/authorize?team=louis030195's%20projects&type=github&job=%7B%22headInfo%22%3A%7B%22sha%22%3A%224b0dcd347daf28b47b08e86e9fb1201d71c27ccf%22%7D%2C%22id%22%3A%22QmYrphKBUW7u9m6HFMGfPXZ1piqZDaqEMu9N8tgt3b9aAC%22%2C%22org%22%3A%22mediar-ai%22%2C%22prId%22%3A1581%2C%22repo%22%3A%22screenpipe%22%7D).
+
+",NEGATIVE,0.9971879124641418
+1580,fix: settings preset component,"Someone is attempting to deploy a commit to the **louis030195's projects** Team on [Vercel](https://vercel.com).
+
+A member of the Team first needs to [authorize it](https://vercel.com/git/authorize?team=louis030195's%20projects&type=github&job=%7B%22headInfo%22%3A%7B%22sha%22%3A%22713474b8687bbe711ae5911c54b30f89e11bcd28%22%7D%2C%22id%22%3A%22QmUk3XTDuaEU8Ngg9Ma9oNcYy2srT59MPo3Z3TkpQPcrsK%22%2C%22org%22%3A%22mediar-ai%22%2C%22prId%22%3A1580%2C%22repo%22%3A%22screenpipe%22%7D).
+
+",NEGATIVE,0.9971575736999512
+1580,fix: settings preset component,nice thakjs!,POSITIVE,0.9997575879096985
+1577,Devcontainer to speed up linux development of screenpipe,"@divanshu-go is attempting to deploy a commit to the **louis030195's projects** Team on [Vercel](https://vercel.com).
+
+A member of the Team first needs to [authorize it](https://vercel.com/git/authorize?team=louis030195's%20projects&type=github&job=%7B%22headInfo%22%3A%7B%22sha%22%3A%222efe0ef5e12c4d6abe6f8f2c585b6c5148797bc6%22%7D%2C%22id%22%3A%22QmcJb1jJk8GA5ji49JBM3M7KeuRFSvFrvZV7nvpaghEETM%22%2C%22org%22%3A%22mediar-ai%22%2C%22prId%22%3A1577%2C%22repo%22%3A%22screenpipe%22%7D).
+
+",NEGATIVE,0.9977327585220337
+1577,Devcontainer to speed up linux development of screenpipe,"@louis030195 the dockerfile I made can also be used in github workflow to fast them cause then we dont need to install deps for linux 
+as all deps are installed in dockerfile",NEGATIVE,0.9894670844078064
+1577,Devcontainer to speed up linux development of screenpipe,"@louis030195 the build on main branch is failing
+
+
+```
+  Compiling screenpipe-core v0.2.62 (/workspaces/screenpipe/screenpipe-core)
+error[E0433]: failed to resolve: use of undeclared crate or module `core_foundation`
+ --> screenpipe-core/src/operator/tree_search.rs:3:5
+  |
+3 | use core_foundation::array::CFArray;
+  |     ^^^^^^^^^^^^^^^ use of undeclared crate or module `core_foundation`
+
+error[E0432]: unresolved import `accessibility`
+ --> screenpipe-core/src/operator/tree_search.rs:2:5
+  |
+2 | use accessibility::{AXAttribute, AXUIElement, AXUIElementAttributes, Error};
+  |     ^^^^^^^^^^^^^ use of undeclared crate or module `accessibility`
+
+error[E0432]: unresolved import `thiserror`
+ --> screenpipe-core/src/operator/errors.rs:1:5
+  |
+1 | use thiserror::Error;
+  |     ^^^^^^^^^ use of undeclared crate or module `thiserror`
+
+error: cannot find attribute `error` in this scope
+ --> screenpipe-core/src/operator/errors.rs:5:7
+  |
+5 |     #[error(""Element not found: {0}"")]
+  |       ^^^^^
+
+error: cannot find attribute `error` in this scope
+ --> screenpipe-core/src/operator/errors.rs:8:7
+  |
+8 |     #[error(""Operation timed out: {0}"")]
+  |       ^^^^^
+
+error: cannot find attribute `error` in this scope
+  --> screenpipe-core/src/operator/errors.rs:11:7
+   |
+11 |     #[error(""Permission denied: {0}"")]
+   |       ^^^^^
+
+error: cannot find attribute `error` in this scope
+  --> screenpipe-core/src/operator/errors.rs:14:7
+   |
+14 |     #[error(""Platform-specific error: {0}"")]
+   |       ^^^^^
+
+error: cannot find attribute `error` in this scope
+  --> screenpipe-core/src/operator/errors.rs:17:7
+   |
+17 |     #[error(""Unsupported operation: {0}"")]
+   |       ^^^^^
+
+error: cannot find attribute `error` in this scope
+  --> screenpipe-core/src/operator/errors.rs:20:7
+   |
+20 |     #[error(""Unsupported platform: {0}"")]
+   |       ^^^^^
+
+error: cannot find attribute `error` in this scope
+  --> screenpipe-core/src/operator/errors.rs:23:7
+   |
+23 |     #[error(""Invalid argument: {0}"")]
+   |       ^^^^^
+
+error: cannot find attribute `error` in this scope
+  --> screenpipe-core/src/operator/errors.rs:26:7
+   |
+26 |     #[error(""Internal error: {0}"")]
+   |       ^^^^^
+
+error[E0407]: method `get_element_by_id` is not a member of trait `AccessibilityEngine`
+  --> screenpipe-core/src/operator/platforms/linux.rs:21:5
+   |
+21 | /     fn get_element_by_id(&self, _id: &str) -> Result<UIElement, AutomationError> {
+22 | |         Err(AutomationError::UnsupportedPlatform(
+23 | |             ""Linux implementation is not yet available"".to_string(),
+24 | |         ))
+25 | |     }
+   | |_____^ not a member of trait `AccessibilityEngine`
+
+error[E0046]: not all trait items implemented, missing: `find_element`
+  --> screenpipe-core/src/operator/platforms/linux.rs:16:1
+   |
+16 |   impl AccessibilityEngine for LinuxEngine {
+   |   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ missing `find_element` in implementation
+   |
+  ::: screenpipe-core/src/operator/platforms/mod.rs:18:5
+   |
+18 | /     fn find_element(
+19 | |         &self,
+20 | |         selector: &Selector,
+21 | |         root: Option<&UIElement>,
+22 | |     ) -> Result<UIElement, AutomationError>;
+   | |____________________________________________- `find_element` from trait
+
+error[E0050]: method `get_text` has 1 parameter but the declaration in trait `UIElementImpl::get_text` has 2
+   --> screenpipe-core/src/operator/platforms/linux.rs:148:17
+    |
+148 |     fn get_text(&self) -> Result<String, AutomationError> {
+    |                 ^^^^^ expected 2 parameters, found 1
+    |
+   ::: screenpipe-core/src/operator/element.rs:39:17
+    |
+39  |     fn get_text(&self, max_depth: usize) -> Result<String, AutomationError>;
+    |                 ----------------------- trait requires 2 parameters
+
+error[E0061]: this function takes 0 arguments but 2 arguments were supplied
+  --> screenpipe-core/src/operator/platforms/mod.rs:62:28
+   |
+62 |         return Ok(Box::new(linux::LinuxEngine::new(
+   |                            ^^^^^^^^^^^^^^^^^^^^^^^
+63 |             use_background_apps,
+   |             ------------------- unexpected argument #1 of type `bool`
+64 |             activate_app,
+   |             ------------ unexpected argument #2 of type `bool`
+   |
+note: associated function defined here
+  --> screenpipe-core/src/operator/platforms/linux.rs:9:12
+   |
+9  |     pub fn new() -> Result<Self, AutomationError> {
+   |            ^^^
+help: remove the extra arguments
+   |
+63 -             use_background_apps,
+63 +             )?));
+   |
+
+Some errors have detailed explanations: E0046, E0050, E0061, E0407, E0432, E0433.
+For more information about an error, try `rustc --explain E0046`.
+error: could not compile `screenpipe-core` (lib) due to 15 previous errors
+warning: build failed, waiting for other jobs to finish...
+
+```
+",NEGATIVE,0.9997621178627014
+1577,Devcontainer to speed up linux development of screenpipe,fixing linux and window rn,NEGATIVE,0.9968047142028809
+1573,make released cli work on ubuntu 22,"@divanshu-go is attempting to deploy a commit to the **louis030195's projects** Team on [Vercel](https://vercel.com).
+
+A member of the Team first needs to [authorize it](https://vercel.com/git/authorize?team=louis030195's%20projects&type=github&job=%7B%22headInfo%22%3A%7B%22sha%22%3A%221197018c142ce21c37f154b97e10edd28c4b7c36%22%7D%2C%22id%22%3A%22QmVaA2TZQp78wAYXeeYS5KQCKRpP1M9YDargs9apG19iqp%22%2C%22org%22%3A%22mediar-ai%22%2C%22prId%22%3A1573%2C%22repo%22%3A%22screenpipe%22%7D).
+
+",NEGATIVE,0.9974073767662048
+1572,cli version bumped,"@m13v is attempting to deploy a commit to the **louis030195's projects** Team on [Vercel](https://vercel.com).
+
+A member of the Team first needs to [authorize it](https://vercel.com/git/authorize?team=louis030195's%20projects&type=github&job=%7B%22headInfo%22%3A%7B%22sha%22%3A%226224bc73e8872d5bc9ffb6c0cd0454653dc197d5%22%7D%2C%22id%22%3A%22QmZT7ixW8UMYLEXVMtc7BUhcoH1R3Jo7Cuq6f5bUfyqSNH%22%2C%22org%22%3A%22mediar-ai%22%2C%22prId%22%3A1572%2C%22repo%22%3A%22screenpipe%22%7D).
+
+",NEGATIVE,0.9978958368301392
+1571,fix  linux integration test,"@divanshu-go is attempting to deploy a commit to the **louis030195's projects** Team on [Vercel](https://vercel.com).
+
+A member of the Team first needs to [authorize it](https://vercel.com/git/authorize?team=louis030195's%20projects&type=github&job=%7B%22headInfo%22%3A%7B%22sha%22%3A%228b1617ef676a359241e396e3af0bc5a69e84a9d9%22%7D%2C%22id%22%3A%22QmdKtbkAzakXHVZLAjBBzu2PNoj9XtLGw4DCzXKHgbY7nL%22%2C%22org%22%3A%22mediar-ai%22%2C%22prId%22%3A1571%2C%22repo%22%3A%22screenpipe%22%7D).
+
+",NEGATIVE,0.9977433681488037
+1571,fix  linux integration test,@louis030195 you can merge it after xcap bump to a newer version,NEGATIVE,0.9048377871513367
+1568,chore: bump xcap,"@ologbonowiwi is attempting to deploy a commit to the **louis030195's projects** Team on [Vercel](https://vercel.com).
+
+A member of the Team first needs to [authorize it](https://vercel.com/git/authorize?team=louis030195's%20projects&type=github&job=%7B%22headInfo%22%3A%7B%22sha%22%3A%225347fae310d5126c0b9acf0c54b75c6ba33e75f6%22%7D%2C%22id%22%3A%22QmW25TmrxLJLGeZM53StATZMbsJRcD3TXMFhwtB1YYz5GL%22%2C%22org%22%3A%22mediar-ai%22%2C%22prId%22%3A1568%2C%22repo%22%3A%22screenpipe%22%7D).
+
+",NEGATIVE,0.9977161884307861
+1568,chore: bump xcap,thanks :),POSITIVE,0.9997538924217224
+1568,chore: bump xcap,"guys @ologbonowiwi 
+
+screen capture does not work for me anymore 
+
+added some logs:
+
+https://gist.github.com/louis030195/8fc909cfeac923d32b56f3368721f951
+
+`get_monitor_by_id` fails on mac 
+
+
+",NEGATIVE,0.9987125396728516
+1568,chore: bump xcap,"seems to fail finding the monitor after a bit - idk how to reproduce, seems random within 60 miunutes
+
+https://gist.github.com/louis030195/4da1ad337b246bdfb89fda3acddeaa19
+
+i only use one monitor (mac m4)",NEGATIVE,0.9997765421867371
+1568,chore: bump xcap,"also i wonder, do we really need to get the monitor at every loop iteration?
+
+if the monitor is unplugged it should just throw error on capture and we stop recording 
+
+do we need to get the monitor handle at every iteration? it would probably reduce likelihood of this issue imho ",NEGATIVE,0.9996527433395386
+1568,chore: bump xcap,"It may be related to https://github.com/nashaofu/xcap/pull/200?
+
+Feel free to open an issue to tackle this. Are you thinking more about reverting the xcap update or fixing xcap to avoid this issue?",NEGATIVE,0.9974864721298218
+1568,chore: bump xcap,"And probably optimizing the syscalls we do related to monitor as you mentioned
+> also i wonder, do we really need to get the monitor at every loop iteration?
+
+is a good idea. it may reduce the memory usage of screenpipe.",NEGATIVE,0.9986207485198975
+1568,chore: bump xcap,"i'm running this 
+
+>also i wonder, do we really need to get the monitor at every loop iteration?
+
+let's see if it's better ",NEGATIVE,0.9983030557632446
+1568,chore: bump xcap,"i reverted xcap version in the end, this fixed the issue",NEGATIVE,0.9869116544723511
+1568,chore: bump xcap,"makes sense. it may worth open an issue on xcap. that's probably related
+with the pr I linked on my earlier comment.
+
+Em qua., 12 de mar. de 2025, 21:37, Louis Beaumont ***@***.***>
+escreveu:
+
+> i reverted xcap version in the end, this fixed the issue
+>
+> —
+> Reply to this email directly, view it on GitHub
+> <https://github.com/mediar-ai/screenpipe/pull/1568#issuecomment-2719447745>,
+> or unsubscribe
+> <https://github.com/notifications/unsubscribe-auth/AX6PNYBWQ7T5TCZUXS34GCD2UDHMVAVCNFSM6AAAAABYTWN6J6VHI2DSMVQWIX3LMV43OSLTON2WKQ3PNVWWK3TUHMZDOMJZGQ2DONZUGU>
+> .
+> You are receiving this because you were mentioned.Message ID:
+> ***@***.***>
+> [image: louis030195]*louis030195* left a comment
+> (mediar-ai/screenpipe#1568)
+> <https://github.com/mediar-ai/screenpipe/pull/1568#issuecomment-2719447745>
+>
+> i reverted xcap version in the end, this fixed the issue
+>
+> —
+> Reply to this email directly, view it on GitHub
+> <https://github.com/mediar-ai/screenpipe/pull/1568#issuecomment-2719447745>,
+> or unsubscribe
+> <https://github.com/notifications/unsubscribe-auth/AX6PNYBWQ7T5TCZUXS34GCD2UDHMVAVCNFSM6AAAAABYTWN6J6VHI2DSMVQWIX3LMV43OSLTON2WKQ3PNVWWK3TUHMZDOMJZGQ2DONZUGU>
+> .
+> You are receiving this because you were mentioned.Message ID:
+> ***@***.***>
+>
+",NEGATIVE,0.9957286715507507
