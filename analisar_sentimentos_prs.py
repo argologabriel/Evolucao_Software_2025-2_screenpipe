@@ -2,17 +2,17 @@ import os
 import requests
 import pandas as pd
 from tqdm import tqdm
+from dotenv import load_dotenv
 from transformers import pipeline
 
-# ===============================
-# CONFIGURAÇÕES INICIAIS
-# ===============================
+# Carregar variáveis de ambiente
+load_dotenv()
 
 # Repositório alvo
-OWNER = "mediar-ai"
-REPO = "screenpipe"
+OWNER = os.getenv("REPO_OWNER")
+REPO = os.getenv("REPO_NAME")
 
-# Token do GitHub (opcional)
+# Token do GitHub
 TOKEN = os.getenv("GITHUB_TOKEN")
 
 # Cabeçalhos da requisição
